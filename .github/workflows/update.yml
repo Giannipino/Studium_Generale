@@ -1,0 +1,43 @@
+name: Studium Generale aktualisieren
+
+on:
+  schedule:
+    - cron: "47 4 * * 1"   # montags 05:47 (Winterzeit) / 06:47 (Sommerzeit) deutscher Zeit
+  workflow_dispatch:        # manuell starten: Actions -> "Run workflow"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Werkzeuge installieren
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
+
+      - name: Programm prüfen (Claude)
+        uses: anthropics/claude-code-action@v1
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          prompt: |
+            Lies AGENT.md in diesem Repository und führe die dort beschriebene wöchentliche Aktualisierung aus.
+            Heute ist der Tag, an dem dieser Workflow läuft (siehe `date`).
+            Committe NICHT selbst – das erledigt der nächste Workflow-Schritt.
+            Schreibe Deinen Bericht zusätzlich in die Datei LETZTER_LAUF.md.
+          claude_args: "--allowedTools Bash,Read,Write,Edit,WebFetch,WebSearch"
+
+      - name: ICS erzeugen und Änderungen committen
+        run: |
+          python3 generate_ics.py
+          git config user.name "studium-generale-bot"
+          git config user.email "actions@users.noreply.github.com"
+          if git diff --quiet -- events.json; then
+            echo "Keine inhaltlichen Änderungen."
+          else
+            git add -A
+            git commit -m "Studium Generale: automatische Aktualisierung $(date +%F)"
+            git push
+          fi
