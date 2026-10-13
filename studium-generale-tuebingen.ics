@@ -25,1078 +25,1170 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:sg-tue-erbe-20261019@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20261019T181500
-DTEND;TZID=Europe/Berlin:20261019T194500
-SUMMARY:StG: Einführung in die Vorlesungsreihe
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Kulturelles Erbe im Wandel: Provenienz\, Restitution und
-  gesellschaftliche Verantwortung\nVortragende: Annika Vosseler & Stephan B
- lum\nEintritt frei\, ohne Anmeldung. Beginn 18 Uhr c.t. (18:15).\nAktuelle
-  Infos: https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-CATEGORIES:Kulturelles Erbe im Wandel
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-erbe-20261026@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20261026T181500
-DTEND;TZID=Europe/Berlin:20261026T194500
-SUMMARY:StG: Provenienz\, Restitution und (Un-)Recht im Kontext von kolonia
- lem Kulturgüterraub
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Kulturelles Erbe im Wandel: Provenienz\, Restitution und
-  gesellschaftliche Verantwortung\nVortragende: Gwunyai Machona (HU Berlin)
- \nEintritt frei\, ohne Anmeldung. Beginn 18 Uhr c.t. (18:15).\nAktuelle In
- fos: https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-CATEGORIES:Kulturelles Erbe im Wandel
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-erbe-20261102@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20261102T181500
-DTEND;TZID=Europe/Berlin:20261102T194500
-SUMMARY:StG: Nehmen und Geben: Varianten von Restitution in Europa
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Kulturelles Erbe im Wandel: Provenienz\, Restitution und
-  gesellschaftliche Verantwortung\nVortragende: Margret Frenz (MWK Baden-W
- ürttemberg)\nEintritt frei\, ohne Anmeldung. Beginn 18 Uhr c.t. (18:15).\
- nAktuelle Infos: https://uni-tuebingen.de/universitaet/im-dialog/studium-g
- enerale/
-CATEGORIES:Kulturelles Erbe im Wandel
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-erbe-20261109@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20261109T181500
-DTEND;TZID=Europe/Berlin:20261109T194500
-SUMMARY:StG: Wem gehört der Schatz von Troia? – Archäologie zwischen Ra
- ub\, Ruhm und Restitution
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Kulturelles Erbe im Wandel: Provenienz\, Restitution und
-  gesellschaftliche Verantwortung\nVortragende: Stephan Blum (Univ. Tübing
- en) & Hannah Gerstlauer\nEintritt frei\, ohne Anmeldung. Beginn 18 Uhr c.t
- . (18:15).\nAktuelle Infos: https://uni-tuebingen.de/universitaet/im-dialo
- g/studium-generale/
-CATEGORIES:Kulturelles Erbe im Wandel
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-erbe-20261116@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20261116T181500
-DTEND;TZID=Europe/Berlin:20261116T194500
-SUMMARY:StG: Alles öffentlich? Koloniale Sammlungsdaten zwischen Transpare
- nz\, Schutz und Teilhabe
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Kulturelles Erbe im Wandel: Provenienz\, Restitution und
-  gesellschaftliche Verantwortung\nVortragende: Annika Vosseler (Univ. Tüb
- ingen)\nEintritt frei\, ohne Anmeldung. Beginn 18 Uhr c.t. (18:15).\nAktue
- lle Infos: https://uni-tuebingen.de/universitaet/im-dialog/studium-general
- e/
-CATEGORIES:Kulturelles Erbe im Wandel
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-erbe-20261123@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20261123T181500
-DTEND;TZID=Europe/Berlin:20261123T194500
-SUMMARY:StG: Wenn methodisches Ideal und administrative Realität aufeinand
- ertreffen
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Kulturelles Erbe im Wandel: Provenienz\, Restitution und
-  gesellschaftliche Verantwortung\nVortragende: Sarah Fründt (Deutsches Ze
- ntrum Kulturgutverluste)\nEintritt frei\, ohne Anmeldung. Beginn 18 Uhr c.
- t. (18:15).\nAktuelle Infos: https://uni-tuebingen.de/universitaet/im-dial
- og/studium-generale/
-CATEGORIES:Kulturelles Erbe im Wandel
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-erbe-20261130@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20261130T181500
-DTEND;TZID=Europe/Berlin:20261130T194500
-SUMMARY:StG: Provenienzforschung und Aufarbeitung von Geschichte(n) – mit
-  Partner:innen aus Papua-Neuguinea am Beispiel der Hamburger Südsee-Exped
- ition
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Kulturelles Erbe im Wandel: Provenienz\, Restitution und
-  gesellschaftliche Verantwortung\nVortragende: Jasmin Günther (MARKK Hamb
- urg)\nEintritt frei\, ohne Anmeldung. Beginn 18 Uhr c.t. (18:15).\nAktuell
- e Infos: https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-CATEGORIES:Kulturelles Erbe im Wandel
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-erbe-20261207@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20261207T181500
-DTEND;TZID=Europe/Berlin:20261207T194500
-SUMMARY:StG: Provenienzforschung als ‚Selbstzweck' für westliche Museen?
-  Zur Notwendigkeit eines gegenseitigen Nutzens
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Kulturelles Erbe im Wandel: Provenienz\, Restitution und
-  gesellschaftliche Verantwortung\nVortragende: Richard Tsogang Fossi (TU B
- erlin)\nEintritt frei\, ohne Anmeldung. Beginn 18 Uhr c.t. (18:15).\nAktue
- lle Infos: https://uni-tuebingen.de/universitaet/im-dialog/studium-general
- e/
-CATEGORIES:Kulturelles Erbe im Wandel
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-erbe-20270111@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20270111T181500
-DTEND;TZID=Europe/Berlin:20270111T194500
-SUMMARY:StG: Kolonialvergangenheit\, Restitution und politische Implikation
- en
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Kulturelles Erbe im Wandel: Provenienz\, Restitution und
-  gesellschaftliche Verantwortung\nVortragende: Andreas Mehler (Univ. Freib
- urg)\nEintritt frei\, ohne Anmeldung. Beginn 18 Uhr c.t. (18:15).\nAktuell
- e Infos: https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-CATEGORIES:Kulturelles Erbe im Wandel
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-erbe-20270118@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20270118T181500
-DTEND;TZID=Europe/Berlin:20270118T194500
-SUMMARY:StG: Kulturgut und Beziehungspflege: Was erwarten wir heute von kul
- turellem Erbe
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Kulturelles Erbe im Wandel: Provenienz\, Restitution und
-  gesellschaftliche Verantwortung\nVortragende: Thomas Thiemeyer (Univ. Tü
- bingen)\nEintritt frei\, ohne Anmeldung. Beginn 18 Uhr c.t. (18:15).\nAktu
- elle Infos: https://uni-tuebingen.de/universitaet/im-dialog/studium-genera
- le/
-CATEGORIES:Kulturelles Erbe im Wandel
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-erbe-20270125@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20270125T181500
-DTEND;TZID=Europe/Berlin:20270125T194500
-SUMMARY:StG: Reactivating Collections in the 21st century: From Oceania to 
- Europe\, and back / Ob\, wie\, an wen? Zur Vielstimmigkeit der Restitution
- sdebatte aus ethnologischer Sicht
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Kulturelles Erbe im Wandel: Provenienz\, Restitution und
-  gesellschaftliche Verantwortung\nVortragende: Safua Akeli (Übersee-Museu
- m Bremen)\; Gabriele Alex (Univ. Tübingen)\nHinweis: Erster Vortrag auf E
- nglisch\nEintritt frei\, ohne Anmeldung. Beginn 18 Uhr c.t. (18:15).\nAktu
- elle Infos: https://uni-tuebingen.de/universitaet/im-dialog/studium-genera
- le/
-CATEGORIES:Kulturelles Erbe im Wandel
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-wissen-20261020@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20261020T181500
-DTEND;TZID=Europe/Berlin:20261020T194500
-SUMMARY:StG: Die Werte unterschiedlichen Wissens in der und für die Nachha
- ltige Entwicklung
-LOCATION:Kupferbau\, Hörsaal 21\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Wertvolles Wissen?! Zur Vielfalt des Wissens für Nachha
- ltige Entwicklung\nVortragende: Thomas Potthast (Univ. Tübingen)\nEintrit
- t frei\, ohne Anmeldung. Beginn 18 Uhr c.t. (18:15).\nAktuelle Infos: http
- s://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-CATEGORIES:Wertvolles Wissen?! Zur Vielfalt des Wissens für Nachhaltige En
- twicklung
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-wissen-20261027@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20261027T181500
-DTEND;TZID=Europe/Berlin:20261027T194500
-SUMMARY:StG: Epistemische Gerechtigkeit: Warum Nichtwissenschaftler*innen i
- n der Nachhaltigkeitsforschung beteiligen?
-LOCATION:Kupferbau\, Hörsaal 21\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Wertvolles Wissen?! Zur Vielfalt des Wissens für Nachha
- ltige Entwicklung\nVortragende: Simon Meisch (IZEW\, Univ. Tübingen)\nEin
- tritt frei\, ohne Anmeldung. Beginn 18 Uhr c.t. (18:15).\nAktuelle Infos: 
- https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-CATEGORIES:Wertvolles Wissen?! Zur Vielfalt des Wissens für Nachhaltige En
- twicklung
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-wissen-20261103@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20261103T181500
-DTEND;TZID=Europe/Berlin:20261103T194500
-SUMMARY:StG: Mit ‚anderen' Wissen schaffen: Vom Mitmachen und Mut machen 
- im Reallabor
-LOCATION:Kupferbau\, Hörsaal 21\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Wertvolles Wissen?! Zur Vielfalt des Wissens für Nachha
- ltige Entwicklung\nVortragende: Marius Albiez (ITAS\, KIT)\nEintritt frei\
- , ohne Anmeldung. Beginn 18 Uhr c.t. (18:15).\nAktuelle Infos: https://uni
- -tuebingen.de/universitaet/im-dialog/studium-generale/
-CATEGORIES:Wertvolles Wissen?! Zur Vielfalt des Wissens für Nachhaltige En
- twicklung
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-wissen-20261110@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20261110T181500
-DTEND;TZID=Europe/Berlin:20261110T194500
-SUMMARY:StG: Die Natur im Recht neu denken: Ethik und Recht im Spannungsfel
- d der Dekolonialisierung
-LOCATION:Kupferbau\, Hörsaal 21\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Wertvolles Wissen?! Zur Vielfalt des Wissens für Nachha
- ltige Entwicklung\nVortragende: Matthias Kramm (Univ. Tübingen / Univ. Ka
- ssel)\nEintritt frei\, ohne Anmeldung. Beginn 18 Uhr c.t. (18:15).\nAktuel
- le Infos: https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-CATEGORIES:Wertvolles Wissen?! Zur Vielfalt des Wissens für Nachhaltige En
- twicklung
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-wissen-20261117@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20261117T181500
-DTEND;TZID=Europe/Berlin:20261117T194500
-SUMMARY:StG: Imagining the Inner Lives of Animals: How Science and the Arts
-  Can Collaborate to Cultivate Empathy Across Species
-LOCATION:Kupferbau\, Hörsaal 21\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Wertvolles Wissen?! Zur Vielfalt des Wissens für Nachha
- ltige Entwicklung\nVortragende: Andrzej Stuart-Thompson (College of Fellow
- s\, Univ. Tübingen)\nHinweis: Vortrag auf Englisch\nEintritt frei\, ohne 
- Anmeldung. Beginn 18 Uhr c.t. (18:15).\nAktuelle Infos: https://uni-tuebin
- gen.de/universitaet/im-dialog/studium-generale/
-CATEGORIES:Wertvolles Wissen?! Zur Vielfalt des Wissens für Nachhaltige En
- twicklung
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-wissen-20261124@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20261124T181500
-DTEND;TZID=Europe/Berlin:20261124T194500
-SUMMARY:StG: Biodiversität\, Klimawandel\, Gerechtigkeit: Herausforderunge
- n für die Gestaltung von Städten von morgen
-LOCATION:Alte Aula\, Münzgasse 30\, 72070 Tübingen
-DESCRIPTION:Reihe: Wertvolles Wissen?! Zur Vielfalt des Wissens für Nachha
- ltige Entwicklung\nVortragende: Flurina Schneider (ISOE / Goethe-Univ. Fra
- nkfurt)\nHinweis: Sustainability Lecture 2026\nEintritt frei\, ohne Anmeld
- ung. Beginn 18 Uhr c.t. (18:15).\nAktuelle Infos: https://uni-tuebingen.de
- /universitaet/im-dialog/studium-generale/
-CATEGORIES:Wertvolles Wissen?! Zur Vielfalt des Wissens für Nachhaltige En
- twicklung
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-wissen-20261201@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20261201T181500
-DTEND;TZID=Europe/Berlin:20261201T194500
-SUMMARY:StG: Natur wertschätzen – Von und mit tansanischen Kleinbäuerin
- nen und -bauern lernen
-LOCATION:Kupferbau\, Hörsaal 21\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Wertvolles Wissen?! Zur Vielfalt des Wissens für Nachha
- ltige Entwicklung\nVortragende: Kerstin Schopp (KNE / IZEW\, Univ. Tübing
- en)\nEintritt frei\, ohne Anmeldung. Beginn 18 Uhr c.t. (18:15).\nAktuelle
-  Infos: https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-CATEGORIES:Wertvolles Wissen?! Zur Vielfalt des Wissens für Nachhaltige En
- twicklung
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-wissen-20261208@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20261208T181500
-DTEND;TZID=Europe/Berlin:20261208T194500
-SUMMARY:StG: Der Wert der Wissenschaften im Zeitalter von KI
-LOCATION:Kupferbau\, Hörsaal 21\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Wertvolles Wissen?! Zur Vielfalt des Wissens für Nachha
- ltige Entwicklung\nVortragende: Jaqueline Bellon (IZEW\, Univ. Tübingen)\
- nEintritt frei\, ohne Anmeldung. Beginn 18 Uhr c.t. (18:15).\nAktuelle Inf
- os: https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-CATEGORIES:Wertvolles Wissen?! Zur Vielfalt des Wissens für Nachhaltige En
- twicklung
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-wissen-20261215@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20261215T181500
-DTEND;TZID=Europe/Berlin:20261215T194500
-SUMMARY:StG: Sicher\, resilient und nachhaltig? Wie Wissenschaft ‚Zukunft
- ' herstellt
-LOCATION:Kupferbau\, Hörsaal 21\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Wertvolles Wissen?! Zur Vielfalt des Wissens für Nachha
- ltige Entwicklung\nVortragende: Marco Krüger (IZEW\, Univ. Tübingen)\nEi
- ntritt frei\, ohne Anmeldung. Beginn 18 Uhr c.t. (18:15).\nAktuelle Infos:
-  https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-CATEGORIES:Wertvolles Wissen?! Zur Vielfalt des Wissens für Nachhaltige En
- twicklung
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-wissen-20270112@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20270112T181500
-DTEND;TZID=Europe/Berlin:20270112T194500
-SUMMARY:StG: Welche Rolle spielt Wissenschaft in Umweltkonflikten – Teil 
- der Lösung oder Teil des Problems?
-LOCATION:Kupferbau\, Hörsaal 21\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Wertvolles Wissen?! Zur Vielfalt des Wissens für Nachha
- ltige Entwicklung\nVortragende: Riccarda Flemmer (Univ. Tübingen)\nEintri
- tt frei\, ohne Anmeldung. Beginn 18 Uhr c.t. (18:15).\nAktuelle Infos: htt
- ps://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-CATEGORIES:Wertvolles Wissen?! Zur Vielfalt des Wissens für Nachhaltige En
- twicklung
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-wissen-20270126@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20270126T181500
-DTEND;TZID=Europe/Berlin:20270126T194500
-SUMMARY:StG: Vom Klimawissen zur Klimakommunikation – Wie sollen Forscher
- *innen ihr Wissen ethisch angemessen formulieren?
-LOCATION:Kupferbau\, Hörsaal 21\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Wertvolles Wissen?! Zur Vielfalt des Wissens für Nachha
- ltige Entwicklung\nVortragende: Christian Baatz (Univ. Kiel)\nEintritt fre
- i\, ohne Anmeldung. Beginn 18 Uhr c.t. (18:15).\nAktuelle Infos: https://u
- ni-tuebingen.de/universitaet/im-dialog/studium-generale/
-CATEGORIES:Wertvolles Wissen?! Zur Vielfalt des Wissens für Nachhaltige En
- twicklung
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-wissen-20270202@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20270202T181500
-DTEND;TZID=Europe/Berlin:20270202T194500
-SUMMARY:StG: Ein Wissen\, das man nicht wissen will: Über den Zusammenhang
-  von Rassismus\, Sexismus und ‚Klimaleugnung'
-LOCATION:Kupferbau\, Hörsaal 21\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Wertvolles Wissen?! Zur Vielfalt des Wissens für Nachha
- ltige Entwicklung\nVortragende: Regina Ammicht Quinn (IZEW\, Univ. Tübing
- en)\nEintritt frei\, ohne Anmeldung. Beginn 18 Uhr c.t. (18:15).\nAktuelle
-  Infos: https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-CATEGORIES:Wertvolles Wissen?! Zur Vielfalt des Wissens für Nachhaltige En
- twicklung
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-rex-20261013@studium-generale-ics
-DTSTAMP:20261013T185536Z
+UID:sg-tue-136299@studium-generale-ics
+DTSTAMP:20261013T194904Z
 DTSTART;TZID=Europe/Berlin:20261013T181500
 DTEND;TZID=Europe/Berlin:20261013T194500
 SUMMARY:StG: Einführung: Vorüberlegungen und Hypothesen zum Verhältnis v
  on Religion und Rechtsextremismus
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Rechtsextremismus und Religionen\nVortragende: Monique S
- cheer (CRCS) & Annett Heft (IRex)\, Univ. Tübingen\nAuch als Aufzeichnung
-  verfügbar (Infos auf der Studium-Generale-Seite)\nEintritt frei\, ohne A
- nmeldung. Beginn 18 Uhr c.t. (18:15).\nAktuelle Infos: https://uni-tuebing
- en.de/universitaet/im-dialog/studium-generale/
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5\, und Aufzeichnung
+DESCRIPTION:Reihe: Rechtsextremismus und Religionen\nReferent/in: Prof. Dr.
+  Monique Scheer\, CRCS\, Universität Tübingen\, Prof. Dr. Annett Heft\, 
+ IRex\, Universität Tübingen\nEintritt frei\, ohne Anmeldung.\nDetails: h
+ ttps://uni-tuebingen.de/news-default/article/einfuehrung-vorueberlegungen-
+ und-hypothesen-zum-verhaeltnis-von-religion-und-rechtsextremismus/
 CATEGORIES:Rechtsextremismus und Religionen
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
+URL:https://uni-tuebingen.de/news-default/article/einfuehrung-vorueberlegun
+ gen-und-hypothesen-zum-verhaeltnis-von-religion-und-rechtsextremismus/
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:sg-tue-rex-20261020@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20261020T181500
-DTEND;TZID=Europe/Berlin:20261020T194500
-SUMMARY:StG: Religiöse Rechte in Deutschland
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Rechtsextremismus und Religionen\nVortragende: Hans-Ulri
- ch Probst (Univ. Tübingen)\nAuch als Aufzeichnung verfügbar (Infos auf d
- er Studium-Generale-Seite)\nEintritt frei\, ohne Anmeldung. Beginn 18 Uhr 
- c.t. (18:15).\nAktuelle Infos: https://uni-tuebingen.de/universitaet/im-di
- alog/studium-generale/
-CATEGORIES:Rechtsextremismus und Religionen
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-rex-20261103@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20261103T181500
-DTEND;TZID=Europe/Berlin:20261103T194500
-SUMMARY:StG: Autoritärer Populismus und die radikale und evangelikale Rech
- te in den USA
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Rechtsextremismus und Religionen\nVortragende: Maren Fre
- udenberg (CERES\, Ruhr-Univ. Bochum)\nAuch als Aufzeichnung verfügbar (In
- fos auf der Studium-Generale-Seite)\nEintritt frei\, ohne Anmeldung. Begin
- n 18 Uhr c.t. (18:15).\nAktuelle Infos: https://uni-tuebingen.de/universit
- aet/im-dialog/studium-generale/
-CATEGORIES:Rechtsextremismus und Religionen
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-rex-20261110@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20261110T181500
-DTEND;TZID=Europe/Berlin:20261110T194500
-SUMMARY:StG: Die Rolle der Religion im türkischen Rechtsextremismus: Das B
- eispiel der Grauen Wölfe
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Rechtsextremismus und Religionen\nVortragende: Monzer Ha
- ider (Univ. Tübingen)\nAuch als Aufzeichnung verfügbar (Infos auf der St
- udium-Generale-Seite)\nEintritt frei\, ohne Anmeldung. Beginn 18 Uhr c.t. 
- (18:15).\nAktuelle Infos: https://uni-tuebingen.de/universitaet/im-dialog/
- studium-generale/
-CATEGORIES:Rechtsextremismus und Religionen
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-rex-20261117@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20261117T181500
-DTEND;TZID=Europe/Berlin:20261117T194500
-SUMMARY:StG: ‚Japanische Spiritualität' und Ethnonationalismus
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Rechtsextremismus und Religionen\nVortragende: Monika Sc
- hrimpf (Univ. Tübingen)\nAuch als Aufzeichnung verfügbar (Infos auf der 
- Studium-Generale-Seite)\nEintritt frei\, ohne Anmeldung. Beginn 18 Uhr c.t
- . (18:15).\nAktuelle Infos: https://uni-tuebingen.de/universitaet/im-dialo
- g/studium-generale/
-CATEGORIES:Rechtsextremismus und Religionen
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-rex-20261124@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20261124T181500
-DTEND;TZID=Europe/Berlin:20261124T194500
-SUMMARY:StG: Rechtsextremismus und Antisemitismus im Kontext Schule
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Rechtsextremismus und Religionen\nVortragende: Friederik
- e Lorenz-Sinai (IRex) & Marina Chernivsky (KOAS)\nAuch als Aufzeichnung ve
- rfügbar (Infos auf der Studium-Generale-Seite)\nEintritt frei\, ohne Anme
- ldung. Beginn 18 Uhr c.t. (18:15).\nAktuelle Infos: https://uni-tuebingen.
- de/universitaet/im-dialog/studium-generale/
-CATEGORIES:Rechtsextremismus und Religionen
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-rex-20261201@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20261201T181500
-DTEND;TZID=Europe/Berlin:20261201T194500
-SUMMARY:StG: Abgrenzungen: Nationalismus – Faschismus – aktueller Recht
- sextremismus
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Rechtsextremismus und Religionen\nVortragende: Fabian Vi
- rchow (IRex\, Univ. Tübingen)\nAuch als Aufzeichnung verfügbar (Infos au
- f der Studium-Generale-Seite)\nEintritt frei\, ohne Anmeldung. Beginn 18 U
- hr c.t. (18:15).\nAktuelle Infos: https://uni-tuebingen.de/universitaet/im
- -dialog/studium-generale/
-CATEGORIES:Rechtsextremismus und Religionen
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-rex-20261208@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20261208T181500
-DTEND;TZID=Europe/Berlin:20261208T194500
-SUMMARY:StG: Katholiken und Katholikinnen im Nationalsozialismus. Mit Seite
- nblicken auf Faschismus und Kirche(n) im 20. Jahrhundert
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Rechtsextremismus und Religionen\nVortragende: Andreas H
- olzem (Univ. Tübingen)\nAuch als Aufzeichnung verfügbar (Infos auf der S
- tudium-Generale-Seite)\nEintritt frei\, ohne Anmeldung. Beginn 18 Uhr c.t.
-  (18:15).\nAktuelle Infos: https://uni-tuebingen.de/universitaet/im-dialog
- /studium-generale/
-CATEGORIES:Rechtsextremismus und Religionen
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-rex-20261215@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20261215T181500
-DTEND;TZID=Europe/Berlin:20261215T194500
-SUMMARY:StG: Initiative Faith in Democracy. Mobilizing faith to defend demo
- cracy – Eine Perspektive aus der Praxis
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Rechtsextremismus und Religionen\nVortragende: Gionathan
-  Lo Mascolo (Berlin) & Léonie de Jonge (IRex)\nHinweis: Dialogformat\nAuc
- h als Aufzeichnung verfügbar (Infos auf der Studium-Generale-Seite)\nEint
- ritt frei\, ohne Anmeldung. Beginn 18 Uhr c.t. (18:15).\nAktuelle Infos: h
- ttps://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-CATEGORIES:Rechtsextremismus und Religionen
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-rex-20270112@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20270112T181500
-DTEND;TZID=Europe/Berlin:20270112T194500
-SUMMARY:StG: Katechon und Antichrist. Politische Theologie im Handgemenge
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Rechtsextremismus und Religionen\nVortragende: Volker We
- iß (Hamburg)\nAuch als Aufzeichnung verfügbar (Infos auf der Studium-Gen
- erale-Seite)\nEintritt frei\, ohne Anmeldung. Beginn 18 Uhr c.t. (18:15).\
- nAktuelle Infos: https://uni-tuebingen.de/universitaet/im-dialog/studium-g
- enerale/
-CATEGORIES:Rechtsextremismus und Religionen
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-rex-20270119@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20270119T181500
-DTEND;TZID=Europe/Berlin:20270119T194500
-SUMMARY:StG: Extrem rechte Lebenswelten in Baden-Württemberg
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Rechtsextremismus und Religionen\nVortragende: Rolf Fran
- kenberger (IRex\, Univ. Tübingen)\nAuch als Aufzeichnung verfügbar (Info
- s auf der Studium-Generale-Seite)\nEintritt frei\, ohne Anmeldung. Beginn 
- 18 Uhr c.t. (18:15).\nAktuelle Infos: https://uni-tuebingen.de/universitae
- t/im-dialog/studium-generale/
-CATEGORIES:Rechtsextremismus und Religionen
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-rex-20270126@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20270126T181500
-DTEND;TZID=Europe/Berlin:20270126T194500
-SUMMARY:StG: Conspirituality and Beyond. Esoterik\, alternative Religion un
- d Rechtsextremismus online
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Rechtsextremismus und Religionen\nVortragende: Moritz Ma
- urer (Univ. Wien)\nAuch als Aufzeichnung verfügbar (Infos auf der Studium
- -Generale-Seite)\nEintritt frei\, ohne Anmeldung. Beginn 18 Uhr c.t. (18:1
- 5).\nAktuelle Infos: https://uni-tuebingen.de/universitaet/im-dialog/studi
- um-generale/
-CATEGORIES:Rechtsextremismus und Religionen
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-rex-20270202@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20270202T181500
-DTEND;TZID=Europe/Berlin:20270202T194500
-SUMMARY:StG: Politischer Antisemitismus im postfaktischen Zeitalter: Formen
-  und Ursachen in Demokratien des 21. Jahrhunderts
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Rechtsextremismus und Religionen\nVortragende: Lars Rens
- mann (Univ. Passau)\nAuch als Aufzeichnung verfügbar (Infos auf der Studi
- um-Generale-Seite)\nEintritt frei\, ohne Anmeldung. Beginn 18 Uhr c.t. (18
- :15).\nAktuelle Infos: https://uni-tuebingen.de/universitaet/im-dialog/stu
- dium-generale/
-CATEGORIES:Rechtsextremismus und Religionen
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-cities-20261021@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20261021T181500
-DTEND;TZID=Europe/Berlin:20261021T194500
-SUMMARY:StG: Warschau – Kyjiv – Jerevan
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Eastern Cityscapes. Von der Ostsee bis zum Mittelmeer\nV
- ortragende: Schamma Schahadat (Tübingen)\nEintritt frei\, ohne Anmeldung.
-  Beginn 18 Uhr c.t. (18:15).\nAktuelle Infos: https://uni-tuebingen.de/uni
- versitaet/im-dialog/studium-generale/
-CATEGORIES:Eastern Cityscapes
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-cities-20261028@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20261028T181500
-DTEND;TZID=Europe/Berlin:20261028T194500
-SUMMARY:StG: Temeswar
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Eastern Cityscapes. Von der Ostsee bis zum Mittelmeer\nV
- ortragende: Olivia Spiridon (Tübingen)\nEintritt frei\, ohne Anmeldung. B
- eginn 18 Uhr c.t. (18:15).\nAktuelle Infos: https://uni-tuebingen.de/unive
- rsitaet/im-dialog/studium-generale/
-CATEGORIES:Eastern Cityscapes
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-cities-20261104@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20261104T181500
-DTEND;TZID=Europe/Berlin:20261104T194500
-SUMMARY:StG: Cluj
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Eastern Cityscapes. Von der Ostsee bis zum Mittelmeer\nV
- ortragende: Alina Noveanu (Tübingen)\nEintritt frei\, ohne Anmeldung. Beg
- inn 18 Uhr c.t. (18:15).\nAktuelle Infos: https://uni-tuebingen.de/univers
- itaet/im-dialog/studium-generale/
-CATEGORIES:Eastern Cityscapes
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-cities-20261111@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20261111T181500
-DTEND;TZID=Europe/Berlin:20261111T194500
-SUMMARY:StG: Novi Sad
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Eastern Cityscapes. Von der Ostsee bis zum Mittelmeer\nV
- ortragende: Daniela Simon (Tübingen)\nEintritt frei\, ohne Anmeldung. Beg
- inn 18 Uhr c.t. (18:15).\nAktuelle Infos: https://uni-tuebingen.de/univers
- itaet/im-dialog/studium-generale/
-CATEGORIES:Eastern Cityscapes
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-cities-20261118@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20261118T181500
-DTEND;TZID=Europe/Berlin:20261118T194500
-SUMMARY:StG: Krementschuk
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Eastern Cityscapes. Von der Ostsee bis zum Mittelmeer\nV
- ortragende: Klaus Gestwa & Stephan Klingebiel (Tübingen)\nEintritt frei\,
-  ohne Anmeldung. Beginn 18 Uhr c.t. (18:15).\nAktuelle Infos: https://uni-
- tuebingen.de/universitaet/im-dialog/studium-generale/
-CATEGORIES:Eastern Cityscapes
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-cities-20261125@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20261125T181500
-DTEND;TZID=Europe/Berlin:20261125T194500
-SUMMARY:StG: Nikosia
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Eastern Cityscapes. Von der Ostsee bis zum Mittelmeer\nV
- ortragende: Thomas Diez (Tübingen)\nEintritt frei\, ohne Anmeldung. Begin
- n 18 Uhr c.t. (18:15).\nAktuelle Infos: https://uni-tuebingen.de/universit
- aet/im-dialog/studium-generale/
-CATEGORIES:Eastern Cityscapes
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-cities-20261202@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20261202T181500
-DTEND;TZID=Europe/Berlin:20261202T194500
-SUMMARY:StG: Narva
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Eastern Cityscapes. Von der Ostsee bis zum Mittelmeer\nV
- ortragende: Andrey Makarychev (Tartu)\nHinweis: Vortrag auf Englisch\nEint
- ritt frei\, ohne Anmeldung. Beginn 18 Uhr c.t. (18:15).\nAktuelle Infos: h
- ttps://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-CATEGORIES:Eastern Cityscapes
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-cities-20261209@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20261209T181500
-DTEND;TZID=Europe/Berlin:20261209T194500
-SUMMARY:StG: Bukarest
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Eastern Cityscapes. Von der Ostsee bis zum Mittelmeer\nV
- ortragende: Cristian Cercel (Tübingen)\nEintritt frei\, ohne Anmeldung. B
- eginn 18 Uhr c.t. (18:15).\nAktuelle Infos: https://uni-tuebingen.de/unive
- rsitaet/im-dialog/studium-generale/
-CATEGORIES:Eastern Cityscapes
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-cities-20261216@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20261216T181500
-DTEND;TZID=Europe/Berlin:20261216T194500
-SUMMARY:StG: Novgorod
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Eastern Cityscapes. Von der Ostsee bis zum Mittelmeer\nV
- ortragende: Anastasiia Sergeeva (Tübingen)\nEintritt frei\, ohne Anmeldun
- g. Beginn 18 Uhr c.t. (18:15).\nAktuelle Infos: https://uni-tuebingen.de/u
- niversitaet/im-dialog/studium-generale/
-CATEGORIES:Eastern Cityscapes
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-cities-20270113@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20270113T181500
-DTEND;TZID=Europe/Berlin:20270113T194500
-SUMMARY:StG: Odesa
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Eastern Cityscapes. Von der Ostsee bis zum Mittelmeer\nV
- ortragende: Olena Saikovska (Tübingen)\nEintritt frei\, ohne Anmeldung. B
- eginn 18 Uhr c.t. (18:15).\nAktuelle Infos: https://uni-tuebingen.de/unive
- rsitaet/im-dialog/studium-generale/
-CATEGORIES:Eastern Cityscapes
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-cities-20270120@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20270120T181500
-DTEND;TZID=Europe/Berlin:20270120T194500
-SUMMARY:StG: Minsk
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Eastern Cityscapes. Von der Ostsee bis zum Mittelmeer\nV
- ortragende: Alexa von Winning (Tübingen)\nEintritt frei\, ohne Anmeldung.
-  Beginn 18 Uhr c.t. (18:15).\nAktuelle Infos: https://uni-tuebingen.de/uni
- versitaet/im-dialog/studium-generale/
-CATEGORIES:Eastern Cityscapes
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-cities-20270127@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20270127T181500
-DTEND;TZID=Europe/Berlin:20270127T194500
-SUMMARY:StG: Auschwitz / Oświęcim
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Eastern Cityscapes. Von der Ostsee bis zum Mittelmeer\nV
- ortragende: Martina Thiele (Tübingen)\nEintritt frei\, ohne Anmeldung. Be
- ginn 18 Uhr c.t. (18:15).\nAktuelle Infos: https://uni-tuebingen.de/univer
- sitaet/im-dialog/studium-generale/
-CATEGORIES:Eastern Cityscapes
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-cities-20270203@studium-generale-ics
-DTSTAMP:20261013T185536Z
-DTSTART;TZID=Europe/Berlin:20270203T181500
-DTEND;TZID=Europe/Berlin:20270203T194500
-SUMMARY:StG: Tscherniwzi / Czernowitz
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
-DESCRIPTION:Reihe: Eastern Cityscapes. Von der Ostsee bis zum Mittelmeer\nV
- ortragende: Mariia Ivanytska (Kyjiv / Tübingen)\nEintritt frei\, ohne Anm
- eldung. Beginn 18 Uhr c.t. (18:15).\nAktuelle Infos: https://uni-tuebingen
- .de/universitaet/im-dialog/studium-generale/
-CATEGORIES:Eastern Cityscapes
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:sg-tue-klima-20261015@studium-generale-ics
-DTSTAMP:20261013T185536Z
+UID:sg-tue-136407@studium-generale-ics
+DTSTAMP:20261013T194904Z
 DTSTART;TZID=Europe/Berlin:20261015T181500
 DTEND;TZID=Europe/Berlin:20261015T194500
 SUMMARY:StG: Nachhaltige Stadtentwicklung der Universitätsstadt Tübingen 
- – gestern\, heute und für eine Zukunft im Klimawandel
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
+ - gestern\, heute und für eine Zukunft im Klimawandel
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5
 DESCRIPTION:Reihe: Kann Tübingen Klima? Vom Wissen und Handeln „for Futu
- re“\nVortragende: Martin Göppert & Barbara Landwehr (Stadt Tübingen)\n
- Eintritt frei\, ohne Anmeldung. Beginn 18 Uhr c.t. (18:15).\nAktuelle Info
- s: https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-CATEGORIES:Kann Tübingen Klima? Vom Wissen und Handeln „for Future“
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
+ re“\nReferent/in: Dipl. Ing. Martin Göppert\, Leitung Fachabteilung Nac
+ hhaltige Stadtentwicklung\, Stadt Tübingen\, Dipl. Ing. Barbara Landwehr\
+ , Leitung Fachbereich Planen/Entwickeln/Liegenschaften\, Stadt Tübingen\n
+ Eintritt frei\, ohne Anmeldung.\nDetails: https://uni-tuebingen.de/news-de
+ fault/article/nachhaltige-stadtentwicklung-der-universitaetsstadt-tuebinge
+ n-gestern-heute-und-fuer-eine-zukunft-im-klimawandel/
+CATEGORIES:Kann Tübingen Klima
+URL:https://uni-tuebingen.de/news-default/article/nachhaltige-stadtentwickl
+ ung-der-universitaetsstadt-tuebingen-gestern-heute-und-fuer-eine-zukunft-i
+ m-klimawandel/
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:sg-tue-klima-20261022@studium-generale-ics
-DTSTAMP:20261013T185536Z
+UID:sg-tue-136218@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20261019T181500
+DTEND;TZID=Europe/Berlin:20261019T194500
+SUMMARY:StG: Einführung in die Vorlesungsreihe & Vortrag: Provenienz\, Res
+ titution und (Un-)Recht im Kontext von kolonialem Kulturgüterraub
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5
+DESCRIPTION:Reihe: Kulturelles Erbe im Wandel: Provenienz\, Restitution und
+  gesellschaftliche Verantwortung\nReferent/in: Annika Vosseler & Stephan B
+ lum\, Tübingen\, Gwunyai Machona\, Humboldt-Universität zu Berlin\nEintr
+ itt frei\, ohne Anmeldung.\nDetails: https://uni-tuebingen.de/news-default
+ /article/einfuehrung-in-die-vorlesungsreihe-vortrag-provenienz-restitution
+ -und-un-recht-im-kontext-von-kolonialem-kulturgueterraub/
+CATEGORIES:Kulturelles Erbe im Wandel
+URL:https://uni-tuebingen.de/news-default/article/einfuehrung-in-die-vorles
+ ungsreihe-vortrag-provenienz-restitution-und-un-recht-im-kontext-von-kolon
+ ialem-kulturgueterraub/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136302@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20261020T181500
+DTEND;TZID=Europe/Berlin:20261020T194500
+SUMMARY:StG: Religiöse Rechte in Deutschland
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5\, und Aufzeichnung
+DESCRIPTION:Reihe: Rechtsextremismus und Religionen\nReferent/in: Dr. Hans-
+ Ulrich Probst\, Ev.-Theol. Fakultät\, Universität Tübingen\nEintritt fr
+ ei\, ohne Anmeldung.\nDetails: https://uni-tuebingen.de/news-default/artic
+ le/religioese-rechte-in-deutschland/
+CATEGORIES:Rechtsextremismus und Religionen
+URL:https://uni-tuebingen.de/news-default/article/religioese-rechte-in-deut
+ schland/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136266@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20261020T181500
+DTEND;TZID=Europe/Berlin:20261020T194500
+SUMMARY:StG: Die Werte unterschiedlichen Wissens in der und für die Nachha
+ ltige Entwicklung
+LOCATION:Hörsaal 21\, Kupferbau\, Hölderlinstr. 5
+DESCRIPTION:Reihe: Wertvolles Wissen?! Zur Vielfalt des Wissens für Nachha
+ ltige Entwicklung\nReferent/in: Prof. Dr. Thomas Potthast\, Lehrstuhl für
+  Ethik\, Theorie und Geschichte der Biowissenschaften sowie Leitung IZEW u
+ nd KNE\, Universität Tübingen\nEintritt frei\, ohne Anmeldung.\nDetails:
+  https://uni-tuebingen.de/news-default/article/die-werte-unterschiedlichen
+ -wissens-in-der-und-fuer-die-nachhaltige-entwicklung/
+CATEGORIES:Wertvolles Wissen
+URL:https://uni-tuebingen.de/news-default/article/die-werte-unterschiedlich
+ en-wissens-in-der-und-fuer-die-nachhaltige-entwicklung/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136368@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20261021T181500
+DTEND;TZID=Europe/Berlin:20261021T194500
+SUMMARY:StG: Warschau – Kyjiv - Jerevan
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5
+DESCRIPTION:Reihe: Eastern Cityscapes. Von der Ostsee bis zum Mittelmeer\nR
+ eferent/in: Schamma Schahadat\, Tübingen\nEintritt frei\, ohne Anmeldung.
+ \nDetails: https://uni-tuebingen.de/news-default/article/warschau-kyjiv-je
+ revan/
+CATEGORIES:Eastern Cityscapes
+URL:https://uni-tuebingen.de/news-default/article/warschau-kyjiv-jerevan/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136410@studium-generale-ics
+DTSTAMP:20261013T194904Z
 DTSTART;TZID=Europe/Berlin:20261022T181500
 DTEND;TZID=Europe/Berlin:20261022T194500
 SUMMARY:StG: Cyber-Mountain – KI im Wechselspiel von lokaler Wirkung und 
- grenzüberschreitender Regulierung
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
+ grenzüberscheitender Regulierung
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5
 DESCRIPTION:Reihe: Kann Tübingen Klima? Vom Wissen und Handeln „for Futu
- re“\nVortragende: Jessica Heesen (IZEW\, Univ. Tübingen)\nEintritt frei
- \, ohne Anmeldung. Beginn 18 Uhr c.t. (18:15).\nAktuelle Infos: https://un
- i-tuebingen.de/universitaet/im-dialog/studium-generale/
-CATEGORIES:Kann Tübingen Klima? Vom Wissen und Handeln „for Future“
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
+ re“\nReferent/in: Prof. Dr. Jessica Heesen\, IZEW\, Leitung der Forschun
+ gsgruppe Medienethik\, Technikphilosophie & KI\, Universität Tübingen\nE
+ intritt frei\, ohne Anmeldung.\nDetails: https://uni-tuebingen.de/news-def
+ ault/article/cyber-mountain-ki-im-wechselspiel-von-lokaler-wirkung-und-gre
+ nzueberscheitender-regulierung/
+CATEGORIES:Kann Tübingen Klima
+URL:https://uni-tuebingen.de/news-default/article/cyber-mountain-ki-im-wech
+ selspiel-von-lokaler-wirkung-und-grenzueberscheitender-regulierung/
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:sg-tue-klima-20261029@studium-generale-ics
-DTSTAMP:20261013T185536Z
+UID:sg-tue-136221@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20261026T181500
+DTEND;TZID=Europe/Berlin:20261026T194500
+SUMMARY:StG: Nehmen und Geben: Varianten von Restitution in Europa
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5
+DESCRIPTION:Reihe: Kulturelles Erbe im Wandel: Provenienz\, Restitution und
+  gesellschaftliche Verantwortung\nReferent/in: Margret Frenz\, Ministerium
+  für Wissenschaft\, Forschung und Kunst BW\nEintritt frei\, ohne Anmeldun
+ g.\nDetails: https://uni-tuebingen.de/news-default/article/nehmen-und-gebe
+ n-varianten-von-restitution-in-europa/
+CATEGORIES:Kulturelles Erbe im Wandel
+URL:https://uni-tuebingen.de/news-default/article/nehmen-und-geben-variante
+ n-von-restitution-in-europa/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136269@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20261027T181500
+DTEND;TZID=Europe/Berlin:20261027T194500
+SUMMARY:StG: Epistemische Gerechtigkeit: Warum Nichtwissenschaftler*innen i
+ n der Nachhaltigkeitsforschung beteiligen?
+LOCATION:Hörsaal 21\, Kupferbau\, Hölderlinstr. 5
+DESCRIPTION:Reihe: Wertvolles Wissen?! Zur Vielfalt des Wissens für Nachha
+ ltige Entwicklung\nReferent/in: Dr. Simon Meisch\, Internationales Zentrum
+  für Ethik in den Wissenschaften (IZEW)\, Universität Tübingen\nEintrit
+ t frei\, ohne Anmeldung.\nDetails: https://uni-tuebingen.de/news-default/a
+ rticle/epistemische-gerechtigkeit-warum-nichtwissenschaftlerinnen-in-der-n
+ achhaltigkeitsforschung-beteiligen/
+CATEGORIES:Wertvolles Wissen
+URL:https://uni-tuebingen.de/news-default/article/epistemische-gerechtigkei
+ t-warum-nichtwissenschaftlerinnen-in-der-nachhaltigkeitsforschung-beteilig
+ en/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136371@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20261028T181500
+DTEND;TZID=Europe/Berlin:20261028T194500
+SUMMARY:StG: Temeswar
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5
+DESCRIPTION:Reihe: Eastern Cityscapes. Von der Ostsee bis zum Mittelmeer\nR
+ eferent/in: Olivia Spiridon\, Tübingen\nEintritt frei\, ohne Anmeldung.\n
+ Details: https://uni-tuebingen.de/news-default/article/temeswar/
+CATEGORIES:Eastern Cityscapes
+URL:https://uni-tuebingen.de/news-default/article/temeswar/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136413@studium-generale-ics
+DTSTAMP:20261013T194904Z
 DTSTART;TZID=Europe/Berlin:20261029T181500
 DTEND;TZID=Europe/Berlin:20261029T194500
 SUMMARY:StG: Thesencheck zu Klimawandel und Maßnahmen – Probleme der Erf
  orschung und Weiterentwicklung von Klimamodellen
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5
 DESCRIPTION:Reihe: Kann Tübingen Klima? Vom Wissen und Handeln „for Futu
- re“\nVortragende: Kira Rehfeld (GUZ / TERRA\, Univ. Tübingen)\nEintritt
-  frei\, ohne Anmeldung. Beginn 18 Uhr c.t. (18:15).\nAktuelle Infos: https
- ://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-CATEGORIES:Kann Tübingen Klima? Vom Wissen und Handeln „for Future“
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
+ re“\nReferent/in: Prof. Dr. Kira Rehfeld\, Klimatologie\, Geo- und Umwel
+ tforschungszentrum (GUZ) / Cluster of Excellence Machine Learning / Sprech
+ erin TERRA-Exzellenzcluster\, Universität Tübingen\nEintritt frei\, ohne
+  Anmeldung.\nDetails: https://uni-tuebingen.de/news-default/article/thesen
+ check-zu-klimawandel-und-massnahmen-probleme-der-erforschung-und-weiterent
+ wicklung-von-klimamodellen/
+CATEGORIES:Kann Tübingen Klima
+URL:https://uni-tuebingen.de/news-default/article/thesencheck-zu-klimawande
+ l-und-massnahmen-probleme-der-erforschung-und-weiterentwicklung-von-klimam
+ odellen/
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:sg-tue-klima-20261105@studium-generale-ics
-DTSTAMP:20261013T185536Z
+UID:sg-tue-136224@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20261102T181500
+DTEND;TZID=Europe/Berlin:20261102T194500
+SUMMARY:StG: „Wem gehört der Schatz von Troia?“ – Archäologie zwisc
+ hen Raub\, Ruhm und Restitution
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5
+DESCRIPTION:Reihe: Kulturelles Erbe im Wandel: Provenienz\, Restitution und
+  gesellschaftliche Verantwortung\nReferent/in: Stephan Blum\, Tübingen\, 
+ Hannah Gerstlauer\nEintritt frei\, ohne Anmeldung.\nDetails: https://uni-t
+ uebingen.de/news-default/article/wem-gehoert-der-schatz-von-troia-archaeol
+ ogie-zwischen-raub-ruhm-und-restitution/
+CATEGORIES:Kulturelles Erbe im Wandel
+URL:https://uni-tuebingen.de/news-default/article/wem-gehoert-der-schatz-vo
+ n-troia-archaeologie-zwischen-raub-ruhm-und-restitution/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136305@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20261103T181500
+DTEND;TZID=Europe/Berlin:20261103T194500
+SUMMARY:StG: Autoritärer Populismus und die radikale und evangelikale Rech
+ te in den USA
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5\, und Aufzeichnung
+DESCRIPTION:Reihe: Rechtsextremismus und Religionen\nReferent/in: PD Dr. Ma
+ ren Freudenberg\, CERES\, Ruhr Universität Bochum\nEintritt frei\, ohne A
+ nmeldung.\nDetails: https://uni-tuebingen.de/news-default/article/autorita
+ erer-populismus-und-die-radikale-und-evangelikale-rechte-in-den-usa/
+CATEGORIES:Rechtsextremismus und Religionen
+URL:https://uni-tuebingen.de/news-default/article/autoritaerer-populismus-u
+ nd-die-radikale-und-evangelikale-rechte-in-den-usa/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136272@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20261103T181500
+DTEND;TZID=Europe/Berlin:20261103T194500
+SUMMARY:StG: Mit ‚anderen‘ Wissen schaffen: Vom Mitmachen und Mut mache
+ n im Reallabor
+LOCATION:Hörsaal 21\, Kupferbau\, Hölderlinstr. 5
+DESCRIPTION:Reihe: Wertvolles Wissen?! Zur Vielfalt des Wissens für Nachha
+ ltige Entwicklung\nReferent/in: Marius Albiez\, Institut für Technikfolge
+ nabschätzung und Systemanalyse (ITAS)\, Karlsruher Institut für Technolo
+ gie (KIT)\nEintritt frei\, ohne Anmeldung.\nDetails: https://uni-tuebingen
+ .de/news-default/article/mit-anderen-wissen-schaffen-vom-mitmachen-und-mut
+ -machen-im-reallabor/
+CATEGORIES:Wertvolles Wissen
+URL:https://uni-tuebingen.de/news-default/article/mit-anderen-wissen-schaff
+ en-vom-mitmachen-und-mut-machen-im-reallabor/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136374@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20261104T181500
+DTEND;TZID=Europe/Berlin:20261104T194500
+SUMMARY:StG: Cluj
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5
+DESCRIPTION:Reihe: Eastern Cityscapes. Von der Ostsee bis zum Mittelmeer\nR
+ eferent/in: Alina Noveanu\, Tübingen\nEintritt frei\, ohne Anmeldung.\nDe
+ tails: https://uni-tuebingen.de/news-default/article/cluj/
+CATEGORIES:Eastern Cityscapes
+URL:https://uni-tuebingen.de/news-default/article/cluj/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136416@studium-generale-ics
+DTSTAMP:20261013T194904Z
 DTSTART;TZID=Europe/Berlin:20261105T181500
 DTEND;TZID=Europe/Berlin:20261105T194500
 SUMMARY:StG: Rechte der Natur – Eine Option für Deutschland und Tübinge
  n?
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5
 DESCRIPTION:Reihe: Kann Tübingen Klima? Vom Wissen und Handeln „for Futu
- re“\nVortragende: Matthias Kramm (Univ. Tübingen / Univ. Kassel)\nEintr
- itt frei\, ohne Anmeldung. Beginn 18 Uhr c.t. (18:15).\nAktuelle Infos: ht
- tps://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-CATEGORIES:Kann Tübingen Klima? Vom Wissen und Handeln „for Future“
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
+ re“\nReferent/in: Dr. Matthias Kramm\, Mathematisch-Naturwissenschaftlic
+ he Fakultät\, Fachbereich Biologie\, Ethik\, Theorie und Geschichte der B
+ iowissenschaften\, Universität Tübingen & MSCA Postdoctoral Fellow\, Kas
+ sel Institute for Sustainability\, Universität Kassel\nEintritt frei\, oh
+ ne Anmeldung.\nDetails: https://uni-tuebingen.de/news-default/article/rech
+ te-der-natur-eine-option-fuer-deutschland-und-tuebingen/
+CATEGORIES:Kann Tübingen Klima
+URL:https://uni-tuebingen.de/news-default/article/rechte-der-natur-eine-opt
+ ion-fuer-deutschland-und-tuebingen/
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:sg-tue-klima-20261112@studium-generale-ics
-DTSTAMP:20261013T185536Z
+UID:sg-tue-136227@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20261109T181500
+DTEND;TZID=Europe/Berlin:20261109T194500
+SUMMARY:StG: Alles öffentlich? Koloniale Sammlungsdaten zwischen Transpare
+ nz\, Schutz und Teilhabe
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5
+DESCRIPTION:Reihe: Kulturelles Erbe im Wandel: Provenienz\, Restitution und
+  gesellschaftliche Verantwortung\nReferent/in: Annika Vosseler\, Tübingen
+ \nEintritt frei\, ohne Anmeldung.\nDetails: https://uni-tuebingen.de/news-
+ default/article/alles-oeffentlich-koloniale-sammlungsdaten-zwischen-transp
+ arenz-schutz-und-teilhabe/
+CATEGORIES:Kulturelles Erbe im Wandel
+URL:https://uni-tuebingen.de/news-default/article/alles-oeffentlich-kolonia
+ le-sammlungsdaten-zwischen-transparenz-schutz-und-teilhabe/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136308@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20261110T181500
+DTEND;TZID=Europe/Berlin:20261110T194500
+SUMMARY:StG: Die Rolle der Religion im türkischen Rechtsextremismus: Das B
+ eispiel der Grauen Wölfe
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5\, und Aufzeichnung
+DESCRIPTION:Reihe: Rechtsextremismus und Religionen\nReferent/in: Monzer Ha
+ ider\, Islamische Theologie\, Universität Tübingen\nEintritt frei\, ohne
+  Anmeldung.\nDetails: https://uni-tuebingen.de/news-default/article/die-ro
+ lle-der-religion-im-tuerkischen-rechtsextremismus-das-beispiel-der-grauen-
+ woelfe/
+CATEGORIES:Rechtsextremismus und Religionen
+URL:https://uni-tuebingen.de/news-default/article/die-rolle-der-religion-im
+ -tuerkischen-rechtsextremismus-das-beispiel-der-grauen-woelfe/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136275@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20261110T181500
+DTEND;TZID=Europe/Berlin:20261110T194500
+SUMMARY:StG: Die Natur im Recht neu denken: Ethik und Recht im Spannungsfel
+ d der Dekolonialisierung
+LOCATION:Hörsaal 21\, Kupferbau\, Hölderlinstr. 5
+DESCRIPTION:Reihe: Wertvolles Wissen?! Zur Vielfalt des Wissens für Nachha
+ ltige Entwicklung\nReferent/in: Dr. Matthias Kramm\, Lehrstuhl für Ethik\
+ , Theorie und Geschichte der Biowissenschaften\, Universität Tübingen / 
+ Marie Curie Postdoctoral Fellow\, Universität Kassel\nEintritt frei\, ohn
+ e Anmeldung.\nDetails: https://uni-tuebingen.de/news-default/article/die-n
+ atur-im-recht-neu-denken-ethik-und-recht-im-spannungsfeld-der-dekolonialis
+ ierung/
+CATEGORIES:Wertvolles Wissen
+URL:https://uni-tuebingen.de/news-default/article/die-natur-im-recht-neu-de
+ nken-ethik-und-recht-im-spannungsfeld-der-dekolonialisierung/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136377@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20261111T181500
+DTEND;TZID=Europe/Berlin:20261111T194500
+SUMMARY:StG: Novi Sad
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5
+DESCRIPTION:Reihe: Eastern Cityscapes. Von der Ostsee bis zum Mittelmeer\nR
+ eferent/in: Daniela Simon\, Tübingen\nEintritt frei\, ohne Anmeldung.\nDe
+ tails: https://uni-tuebingen.de/news-default/article/novi-sad/
+CATEGORIES:Eastern Cityscapes
+URL:https://uni-tuebingen.de/news-default/article/novi-sad/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136422@studium-generale-ics
+DTSTAMP:20261013T194904Z
 DTSTART;TZID=Europe/Berlin:20261112T181500
 DTEND;TZID=Europe/Berlin:20261112T194500
 SUMMARY:StG: Nachhaltige Nutzung begrenzter Ressourcen in Zeiten des global
  en Wandels: Ungenutzte Potentiale im Stadt-Land-Kontext
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5
 DESCRIPTION:Reihe: Kann Tübingen Klima? Vom Wissen und Handeln „for Futu
- re“\nVortragende: Michaela Dippold (Univ. Tübingen)\nEintritt frei\, oh
- ne Anmeldung. Beginn 18 Uhr c.t. (18:15).\nAktuelle Infos: https://uni-tue
- bingen.de/universitaet/im-dialog/studium-generale/
-CATEGORIES:Kann Tübingen Klima? Vom Wissen und Handeln „for Future“
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
+ re“\nReferent/in: Prof. Dr. Michaela Dippold\, Geosphären-Biosphären-W
+ echselwirkungen\, Geo- und Umweltwissenschaften / Sprecherin TERRA Exzelle
+ nzcluster\, Universität Tübingen\nEintritt frei\, ohne Anmeldung.\nDetai
+ ls: https://uni-tuebingen.de/news-default/article/nachhaltige-nutzung-begr
+ enzter-ressourcen-in-zeiten-des-globalen-wandels-ungenutzte-potentiale-im-
+ stadt-land-kontext/
+CATEGORIES:Kann Tübingen Klima
+URL:https://uni-tuebingen.de/news-default/article/nachhaltige-nutzung-begre
+ nzter-ressourcen-in-zeiten-des-globalen-wandels-ungenutzte-potentiale-im-s
+ tadt-land-kontext/
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:sg-tue-klima-20261119@studium-generale-ics
-DTSTAMP:20261013T185536Z
+UID:sg-tue-136230@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20261116T181500
+DTEND;TZID=Europe/Berlin:20261116T194500
+SUMMARY:StG: Wenn methodisches Ideal und administrative Realität aufeinand
+ ertreffen
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5
+DESCRIPTION:Reihe: Kulturelles Erbe im Wandel: Provenienz\, Restitution und
+  gesellschaftliche Verantwortung\nReferent/in: Sarah Fründt\, Postkolonia
+ le Provenienzforschung und internationale Kooperation Deutsches Zentrum Ku
+ lturgutverluste\nEintritt frei\, ohne Anmeldung.\nDetails: https://uni-tue
+ bingen.de/news-default/article/wenn-methodisches-ideal-und-administrative-
+ realitaet-aufeinandertreffen/
+CATEGORIES:Kulturelles Erbe im Wandel
+URL:https://uni-tuebingen.de/news-default/article/wenn-methodisches-ideal-u
+ nd-administrative-realitaet-aufeinandertreffen/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136311@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20261117T181500
+DTEND;TZID=Europe/Berlin:20261117T194500
+SUMMARY:StG: ‚Japanische Spiritualität‘ und Ethnonationalismus
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5\, und Aufzeichnung
+DESCRIPTION:Reihe: Rechtsextremismus und Religionen\nReferent/in: Prof. Dr.
+  Monika Schrimpf\, Japanologie\, Universität Tübingen\nEintritt frei\, o
+ hne Anmeldung.\nDetails: https://uni-tuebingen.de/news-default/article/jap
+ anische-spiritualitaet-und-ethnonationalismus/
+CATEGORIES:Rechtsextremismus und Religionen
+URL:https://uni-tuebingen.de/news-default/article/japanische-spiritualitaet
+ -und-ethnonationalismus/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136278@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20261117T181500
+DTEND;TZID=Europe/Berlin:20261117T194500
+SUMMARY:StG: Imagining the Inner Lives of Animals: How Science and the Arts
+  Can Collaborate to Cultivate Empathy Across Species (Vortrag auf Englisch)
+LOCATION:Hörsaal 21\, Kupferbau\, Hölderlinstr. 5
+DESCRIPTION:Reihe: Wertvolles Wissen?! Zur Vielfalt des Wissens für Nachha
+ ltige Entwicklung\nReferent/in: Dr. Andrzej Stuart-Thompson\, Global Encou
+ nters Fellow\, College of Fellows\, Universität Tübingen\nHinweis: Vortr
+ ag auf Englisch\nEintritt frei\, ohne Anmeldung.\nDetails: https://uni-tue
+ bingen.de/news-default/article/imagining-the-inner-lives-of-animals-how-sc
+ ience-and-the-arts-can-collaborate-to-cultivate-empathy-across-species-vor
+ trag-auf-englisch/
+CATEGORIES:Wertvolles Wissen
+URL:https://uni-tuebingen.de/news-default/article/imagining-the-inner-lives
+ -of-animals-how-science-and-the-arts-can-collaborate-to-cultivate-empathy-
+ across-species-vortrag-auf-englisch/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136380@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20261118T181500
+DTEND;TZID=Europe/Berlin:20261118T194500
+SUMMARY:StG: Krementschuk
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5
+DESCRIPTION:Reihe: Eastern Cityscapes. Von der Ostsee bis zum Mittelmeer\nR
+ eferent/in: Klaus Gestwa\, Stephan Klingebiel\, Tübingen\nEintritt frei\,
+  ohne Anmeldung.\nDetails: https://uni-tuebingen.de/news-default/article/k
+ rementschuk/
+CATEGORIES:Eastern Cityscapes
+URL:https://uni-tuebingen.de/news-default/article/krementschuk/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136425@studium-generale-ics
+DTSTAMP:20261013T194904Z
 DTSTART;TZID=Europe/Berlin:20261119T181500
 DTEND;TZID=Europe/Berlin:20261119T194500
 SUMMARY:StG: Klimagerechtigkeit unter den Bedingungen ökologischer Unregie
  rbarkeit
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5
 DESCRIPTION:Reihe: Kann Tübingen Klima? Vom Wissen und Handeln „for Futu
- re“\nVortragende: Matthias Möhring-Hesse (Univ. Tübingen)\nEintritt fr
- ei\, ohne Anmeldung. Beginn 18 Uhr c.t. (18:15).\nAktuelle Infos: https://
- uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-CATEGORIES:Kann Tübingen Klima? Vom Wissen und Handeln „for Future“
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
+ re“\nReferent/in: Prof. Dr. Matthias Möhring-Hesse\, Lehrstuhl Theologi
+ sche Ethik und Sozialethik\, Universität Tübingen\nEintritt frei\, ohne 
+ Anmeldung.\nDetails: https://uni-tuebingen.de/news-default/article/klimage
+ rechtigkeit-unter-den-bedingungen-oekologischer-unregierbarkeit/
+CATEGORIES:Kann Tübingen Klima
+URL:https://uni-tuebingen.de/news-default/article/klimagerechtigkeit-unter-
+ den-bedingungen-oekologischer-unregierbarkeit/
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:sg-tue-klima-20261126@studium-generale-ics
-DTSTAMP:20261013T185536Z
+UID:sg-tue-136233@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20261123T181500
+DTEND;TZID=Europe/Berlin:20261123T194500
+SUMMARY:StG: Provenienzforschung und Aufarbeitung von Geschichte(n) – mit
+  Partner:innen aus Papua-Neuguinea am Beispiel der Hamburger Südsee-Exped
+ ition
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5
+DESCRIPTION:Reihe: Kulturelles Erbe im Wandel: Provenienz\, Restitution und
+  gesellschaftliche Verantwortung\nReferent/in: Jasmin Günther\, Ozeanisch
+ e Bestände aus kolonialen Kontexten\, Museum am Rothenbaum Kulturen und K
+ ünste der Welt (MARKK)\nEintritt frei\, ohne Anmeldung.\nDetails: https:/
+ /uni-tuebingen.de/news-default/article/provenienzforschung-und-aufarbeitun
+ g-von-geschichten-mit-partnerinnen-aus-papua-neuguinea-am-beispiel-der-ham
+ burger-suedsee-expedition/
+CATEGORIES:Kulturelles Erbe im Wandel
+URL:https://uni-tuebingen.de/news-default/article/provenienzforschung-und-a
+ ufarbeitung-von-geschichten-mit-partnerinnen-aus-papua-neuguinea-am-beispi
+ el-der-hamburger-suedsee-expedition/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-130203@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20261124T180000
+DTEND;TZID=Europe/Berlin:20261124T193000
+SUMMARY:StG: Verleihung der Nachhaltigkeitspreise für Abschlussarbeiten un
+ d Sustainability Lecture 2026
+LOCATION:Alte Aula\, Münzgasse 30
+DESCRIPTION:Reihe: Wertvolles Wissen?! Zur Vielfalt des Wissens für Nachha
+ ltige Entwicklung\nReferent/in: Prof. Dr. Flurina Schneider\, Institut fü
+ r sozialökologische Forschung (ISOE)\, Institut für Ökologie\, Evolutio
+ n und Diversität\, Goethe-Universität Frankfurt am Main\nEintritt frei\,
+  ohne Anmeldung.\nDetails: https://uni-tuebingen.de/news-default/article/v
+ erleihung-der-nachhaltigkeitspreise-fuer-abschlussarbeiten-und-sustainabil
+ ity-lecture-2026/
+CATEGORIES:Wertvolles Wissen
+URL:https://uni-tuebingen.de/news-default/article/verleihung-der-nachhaltig
+ keitspreise-fuer-abschlussarbeiten-und-sustainability-lecture-2026/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136314@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20261124T181500
+DTEND;TZID=Europe/Berlin:20261124T194500
+SUMMARY:StG: Rechtsextremismus und Antisemitismus im Kontext Schule
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5\, und Aufzeichnung
+DESCRIPTION:Reihe: Rechtsextremismus und Religionen\nReferent/in: Prof. Dr.
+  Friederike Lorenz-Sinai\, IRex\, Universität Tübingen\, Marina Chernivs
+ ky\, KOAS - Kompetenzzentrum für antisemitismuskritische Bildung und Fors
+ chung\nEintritt frei\, ohne Anmeldung.\nDetails: https://uni-tuebingen.de/
+ news-default/article/rechtsextremismus-und-antisemitismus-im-kontext-schul
+ e/
+CATEGORIES:Rechtsextremismus und Religionen
+URL:https://uni-tuebingen.de/news-default/article/rechtsextremismus-und-ant
+ isemitismus-im-kontext-schule/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136383@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20261125T181500
+DTEND;TZID=Europe/Berlin:20261125T194500
+SUMMARY:StG: Nikosia
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5
+DESCRIPTION:Reihe: Eastern Cityscapes. Von der Ostsee bis zum Mittelmeer\nR
+ eferent/in: Thomas Diez\, Tübingen\nEintritt frei\, ohne Anmeldung.\nDeta
+ ils: https://uni-tuebingen.de/news-default/article/nikosia/
+CATEGORIES:Eastern Cityscapes
+URL:https://uni-tuebingen.de/news-default/article/nikosia/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136428@studium-generale-ics
+DTSTAMP:20261013T194904Z
 DTSTART;TZID=Europe/Berlin:20261126T181500
 DTEND;TZID=Europe/Berlin:20261126T194500
-SUMMARY:StG: ‚What do we want? Climate justice!' Transformative Bildung a
- n Schule und Hochschule
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
+SUMMARY:StG: „What do we want? Climate justice!“ Transformative Bildung
+  an Schule und Hochschule
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5
 DESCRIPTION:Reihe: Kann Tübingen Klima? Vom Wissen und Handeln „for Futu
- re“\nVortragende: Michael Opielka (EAH Jena) & Nora Oehmichen (Teachers 
- for Future)\nEintritt frei\, ohne Anmeldung. Beginn 18 Uhr c.t. (18:15).\n
- Aktuelle Infos: https://uni-tuebingen.de/universitaet/im-dialog/studium-ge
- nerale/
-CATEGORIES:Kann Tübingen Klima? Vom Wissen und Handeln „for Future“
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
+ re“\nReferent/in: Prof. Dr. Michael Opielka\, Institut für Sozialökolo
+ gie (ISÖ)\, Ernst-Abbe-Hochschule Jena\, 2000-2025\, Nora Oehmichen\, 1. 
+ Bundesvorsitzende der Teachers for Future\nEintritt frei\, ohne Anmeldung.
+ \nDetails: https://uni-tuebingen.de/news-default/article/what-do-we-want-c
+ limate-justice-transformative-bildung-an-schule-und-hochschule/
+CATEGORIES:Kann Tübingen Klima
+URL:https://uni-tuebingen.de/news-default/article/what-do-we-want-climate-j
+ ustice-transformative-bildung-an-schule-und-hochschule/
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:sg-tue-klima-20261203@studium-generale-ics
-DTSTAMP:20261013T185536Z
+UID:sg-tue-136248@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20261130T181500
+DTEND;TZID=Europe/Berlin:20261130T194500
+SUMMARY:StG: Provenienzforschung als "Selbstzweck" für westliche Museen? Z
+ ur Notwendigkeit eines gegenseitigen Nutzens
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5
+DESCRIPTION:Reihe: Kulturelles Erbe im Wandel: Provenienz\, Restitution und
+  gesellschaftliche Verantwortung\nReferent/in: Richard Tsogang Fossi\, Tec
+ hnische Universität Berlin\nEintritt frei\, ohne Anmeldung.\nDetails: htt
+ ps://uni-tuebingen.de/news-default/article/provenienzforschung-als-selbstz
+ weck-fuer-westliche-museen-zur-notwendigkeit-eines-gegenseitigen-nutzens/
+CATEGORIES:Kulturelles Erbe im Wandel
+URL:https://uni-tuebingen.de/news-default/article/provenienzforschung-als-s
+ elbstzweck-fuer-westliche-museen-zur-notwendigkeit-eines-gegenseitigen-nut
+ zens/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136317@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20261201T181500
+DTEND;TZID=Europe/Berlin:20261201T194500
+SUMMARY:StG: Abgrenzungen: Nationalismus – Faschismus – aktueller Recht
+ sextremismus
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5\, und Aufzeichnung
+DESCRIPTION:Reihe: Rechtsextremismus und Religionen\nReferent/in: Prof. Dr.
+  Fabian Virchow\, IRex\, Universität Tübingen\nEintritt frei\, ohne Anme
+ ldung.\nDetails: https://uni-tuebingen.de/news-default/article/abgrenzunge
+ n-nationalismus-faschismus-aktueller-rechtsextremismus/
+CATEGORIES:Rechtsextremismus und Religionen
+URL:https://uni-tuebingen.de/news-default/article/abgrenzungen-nationalismu
+ s-faschismus-aktueller-rechtsextremismus/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136284@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20261201T181500
+DTEND;TZID=Europe/Berlin:20261201T194500
+SUMMARY:StG: Natur wertschätzen – Von und mit tansanischen Kleinbäuerin
+ nen und -bauern lernen
+LOCATION:Hörsaal 21\, Kupferbau\, Hölderlinstr. 5
+DESCRIPTION:Reihe: Wertvolles Wissen?! Zur Vielfalt des Wissens für Nachha
+ ltige Entwicklung\nReferent/in: Kerstin Schopp\, Kompetenzzentrum für Nac
+ hhaltige Entwicklung (KNE) und IZEW\, Universität Tübingen\nEintritt fre
+ i\, ohne Anmeldung.\nDetails: https://uni-tuebingen.de/news-default/articl
+ e/natur-wertschaetzen-von-und-mit-tansanischen-kleinbaeuerinnen-und-bauern
+ -lernen/
+CATEGORIES:Wertvolles Wissen
+URL:https://uni-tuebingen.de/news-default/article/natur-wertschaetzen-von-u
+ nd-mit-tansanischen-kleinbaeuerinnen-und-bauern-lernen/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136386@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20261202T181500
+DTEND;TZID=Europe/Berlin:20261202T194500
+SUMMARY:StG: Narva
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5
+DESCRIPTION:Reihe: Eastern Cityscapes. Von der Ostsee bis zum Mittelmeer\nR
+ eferent/in: Andrey Makarychev\, Tartu\nHinweis: Vortrag auf Englisch\nEint
+ ritt frei\, ohne Anmeldung.\nDetails: https://uni-tuebingen.de/news-defaul
+ t/article/narva/
+CATEGORIES:Eastern Cityscapes
+URL:https://uni-tuebingen.de/news-default/article/narva/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136431@studium-generale-ics
+DTSTAMP:20261013T194904Z
 DTSTART;TZID=Europe/Berlin:20261203T181500
 DTEND;TZID=Europe/Berlin:20261203T194500
 SUMMARY:StG: Warum lässt es so viele kalt\, wenn es immer wärmer wird? Er
  ich Fromms Erkenntnisse über kontraproduktive Strebungen
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5
 DESCRIPTION:Reihe: Kann Tübingen Klima? Vom Wissen und Handeln „for Futu
- re“\nVortragende: Rainer Funk (Erich-Fromm-Institut Tübingen)\nEintritt
-  frei\, ohne Anmeldung. Beginn 18 Uhr c.t. (18:15).\nAktuelle Infos: https
- ://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-CATEGORIES:Kann Tübingen Klima? Vom Wissen und Handeln „for Future“
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
+ re“\nReferent/in: Dr. Rainer Funk\, Psychoanalytiker\, Erich-Fromm-Insti
+ tut Tübingen\nEintritt frei\, ohne Anmeldung.\nDetails: https://uni-tuebi
+ ngen.de/news-default/article/warum-laesst-es-so-viele-kalt-wenn-es-immer-w
+ aermer-wird-erich-fromms-erkenntnisse-ueber-kontraproduktive-strebungen/
+CATEGORIES:Kann Tübingen Klima
+URL:https://uni-tuebingen.de/news-default/article/warum-laesst-es-so-viele-
+ kalt-wenn-es-immer-waermer-wird-erich-fromms-erkenntnisse-ueber-kontraprod
+ uktive-strebungen/
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:sg-tue-klima-20261210@studium-generale-ics
-DTSTAMP:20261013T185536Z
+UID:sg-tue-136251@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20261207T181500
+DTEND;TZID=Europe/Berlin:20261207T194500
+SUMMARY:StG: Kolonialvergangenheit\, Restitution und politische Implikation
+ en
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5
+DESCRIPTION:Reihe: Kulturelles Erbe im Wandel: Provenienz\, Restitution und
+  gesellschaftliche Verantwortung\nReferent/in: Andreas Mehler\, Universit
+ ät Freiburg\nEintritt frei\, ohne Anmeldung.\nDetails: https://uni-tuebin
+ gen.de/news-default/article/kolonialvergangenheit-restitution-und-politisc
+ he-implikationen/
+CATEGORIES:Kulturelles Erbe im Wandel
+URL:https://uni-tuebingen.de/news-default/article/kolonialvergangenheit-res
+ titution-und-politische-implikationen/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136323@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20261208T181500
+DTEND;TZID=Europe/Berlin:20261208T194500
+SUMMARY:StG: Katholiken und Katholikinnen im Nationalsozialismus. Mit Seite
+ nblicken auf Faschismus und Kirche(n) im 20. Jahrhundert
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5\, und Aufzeichnung
+DESCRIPTION:Reihe: Rechtsextremismus und Religionen\nReferent/in: Prof. Dr.
+  Andreas Holzem\, Kath.-Theol. Fakultät\, Universität Tübingen\nEintrit
+ t frei\, ohne Anmeldung.\nDetails: https://uni-tuebingen.de/news-default/a
+ rticle/katholiken-und-katholikinnen-im-nationalsozialismus-mit-seitenblick
+ en-auf-faschismus-und-kirchen-im-20-jahrhundert/
+CATEGORIES:Rechtsextremismus und Religionen
+URL:https://uni-tuebingen.de/news-default/article/katholiken-und-katholikin
+ nen-im-nationalsozialismus-mit-seitenblicken-auf-faschismus-und-kirchen-im
+ -20-jahrhundert/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136281@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20261208T181500
+DTEND;TZID=Europe/Berlin:20261208T194500
+SUMMARY:StG: Der Wert der Wissenschaften im Zeitalter von KI
+LOCATION:Hörsaal 21\, Kupferbau\, Hölderlinstr. 5
+DESCRIPTION:Reihe: Wertvolles Wissen?! Zur Vielfalt des Wissens für Nachha
+ ltige Entwicklung\nReferent/in: Dr. Jaqueline Bellon\, Internationales Zen
+ trum für Ethik in den Wissenschaften (IZEW)\, Universität Tübingen\nEin
+ tritt frei\, ohne Anmeldung.\nDetails: https://uni-tuebingen.de/news-defau
+ lt/article/der-wert-der-wissenschaften-im-zeitalter-von-ki/
+CATEGORIES:Wertvolles Wissen
+URL:https://uni-tuebingen.de/news-default/article/der-wert-der-wissenschaft
+ en-im-zeitalter-von-ki/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136389@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20261209T181500
+DTEND;TZID=Europe/Berlin:20261209T194500
+SUMMARY:StG: Bukarest
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5
+DESCRIPTION:Reihe: Eastern Cityscapes. Von der Ostsee bis zum Mittelmeer\nR
+ eferent/in: Cristian Cercel\, Tübingen\nEintritt frei\, ohne Anmeldung.\n
+ Details: https://uni-tuebingen.de/news-default/article/bukarest/
+CATEGORIES:Eastern Cityscapes
+URL:https://uni-tuebingen.de/news-default/article/bukarest/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136434@studium-generale-ics
+DTSTAMP:20261013T194904Z
 DTSTART;TZID=Europe/Berlin:20261210T181500
 DTEND;TZID=Europe/Berlin:20261210T194500
 SUMMARY:StG: Klimaanpassung und Hitzeschutz für Stadt und Universität Tü
  bingen
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5
 DESCRIPTION:Reihe: Kann Tübingen Klima? Vom Wissen und Handeln „for Futu
- re“\nVortragende: Claudia Raichle (Paul-Lechler-Krankenhaus) & Klaus Wil
- d (Health for Future)\nEintritt frei\, ohne Anmeldung. Beginn 18 Uhr c.t. 
- (18:15).\nAktuelle Infos: https://uni-tuebingen.de/universitaet/im-dialog/
- studium-generale/
-CATEGORIES:Kann Tübingen Klima? Vom Wissen und Handeln „for Future“
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
+ re“\nReferent/in: Dr. med. Claudia Raichle\, Dr. med. Klaus Wild\, Tobia
+ s Stäbler\, Jonathan Friedrich\nEintritt frei\, ohne Anmeldung.\nDetails:
+  https://uni-tuebingen.de/news-default/article/klimaanpassung-und-hitzesch
+ utz-fuer-stadt-und-universitaet-tuebingen/
+CATEGORIES:Kann Tübingen Klima
+URL:https://uni-tuebingen.de/news-default/article/klimaanpassung-und-hitzes
+ chutz-fuer-stadt-und-universitaet-tuebingen/
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:sg-tue-klima-20261217@studium-generale-ics
-DTSTAMP:20261013T185536Z
+UID:sg-tue-136353@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20261215T181500
+DTEND;TZID=Europe/Berlin:20261215T194500
+SUMMARY:StG: Initiative Faith in Democracy. Mobilizing faith to defend demo
+ cracy – Eine Perspektive aus der Praxis
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5\, und Aufzeichnung
+DESCRIPTION:Reihe: Rechtsextremismus und Religionen\nReferent/in: Dialogfor
+ mat: Gionathan Lo Mascolo\, Berlin\, Prof. Dr. Léonie de Jonge\, IRex\, U
+ niversität Tübingen\nEintritt frei\, ohne Anmeldung.\nDetails: https://u
+ ni-tuebingen.de/news-default/article/initiative-faith-in-democracy-mobiliz
+ ing-faith-to-defend-democracy-eine-perspektive-aus-der-praxis/
+CATEGORIES:Rechtsextremismus und Religionen
+URL:https://uni-tuebingen.de/news-default/article/initiative-faith-in-democ
+ racy-mobilizing-faith-to-defend-democracy-eine-perspektive-aus-der-praxis/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136287@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20261215T181500
+DTEND;TZID=Europe/Berlin:20261215T194500
+SUMMARY:StG: Sicher\, resilient und nachhaltig? Wie Wissenschaft „Zukunft
+ “ herstellt
+LOCATION:Hörsaal 21\, Kupferbau\, Hölderlinstr. 5
+DESCRIPTION:Reihe: Wertvolles Wissen?! Zur Vielfalt des Wissens für Nachha
+ ltige Entwicklung\nReferent/in: Dr. Marco Krüger\, Internationales Zentru
+ m für Ethik in den Wissenschaften (IZEW)\, Universität Tübingen\nEintri
+ tt frei\, ohne Anmeldung.\nDetails: https://uni-tuebingen.de/news-default/
+ article/sicher-resilient-und-nachhaltig-wie-wissenschaft-zukunft-herstellt/
+CATEGORIES:Wertvolles Wissen
+URL:https://uni-tuebingen.de/news-default/article/sicher-resilient-und-nach
+ haltig-wie-wissenschaft-zukunft-herstellt/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136392@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20261216T181500
+DTEND;TZID=Europe/Berlin:20261216T194500
+SUMMARY:StG: Novgorod
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5
+DESCRIPTION:Reihe: Eastern Cityscapes. Von der Ostsee bis zum Mittelmeer\nR
+ eferent/in: Anastasiia Sergeeva\, Tübingen\nEintritt frei\, ohne Anmeldun
+ g.\nDetails: https://uni-tuebingen.de/news-default/article/novgorod/
+CATEGORIES:Eastern Cityscapes
+URL:https://uni-tuebingen.de/news-default/article/novgorod/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136437@studium-generale-ics
+DTSTAMP:20261013T194904Z
 DTSTART;TZID=Europe/Berlin:20261217T181500
 DTEND;TZID=Europe/Berlin:20261217T194500
 SUMMARY:StG: Klima\, Umwelt und Gesundheit\, am Beispiel der menschlichen P
- syche / Planetary Health – Forschung in Tübingen
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
+ syche. Planetary – Health – Forschung in Tübingen
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5
 DESCRIPTION:Reihe: Kann Tübingen Klima? Vom Wissen und Handeln „for Futu
- re“\nVortragende: Bernhard Röhrle (Univ. Marburg / Health for Future) &
-  Andreas Heinz (Universitätsklinikum Tübingen)\nEintritt frei\, ohne Anm
- eldung. Beginn 18 Uhr c.t. (18:15).\nAktuelle Infos: https://uni-tuebingen
- .de/universitaet/im-dialog/studium-generale/
-CATEGORIES:Kann Tübingen Klima? Vom Wissen und Handeln „for Future“
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
+ re“\nReferent/in: Prof. em. Dr. Bernhard Röhrle\, Klinische Psychologie
+ \, Universität Marburg / Health for Future\, Prof. Dr. Dr. Andreas Heinz\
+ , Klinik für Psychiatrie und Psychotherapie\, Universitätsklinikum Tübi
+ ngen\nEintritt frei\, ohne Anmeldung.\nDetails: https://uni-tuebingen.de/n
+ ews-default/article/klima-umwelt-und-gesundheit-am-beispiel-der-menschlich
+ en-psyche-planetary-health-forschung-in-tuebingen/
+CATEGORIES:Kann Tübingen Klima
+URL:https://uni-tuebingen.de/news-default/article/klima-umwelt-und-gesundhe
+ it-am-beispiel-der-menschlichen-psyche-planetary-health-forschung-in-tuebi
+ ngen/
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:sg-tue-klima-20270114@studium-generale-ics
-DTSTAMP:20261013T185536Z
+UID:sg-tue-136257@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20270111T181500
+DTEND;TZID=Europe/Berlin:20270111T194500
+SUMMARY:StG: Kulturgut und Beziehungspflege: Was erwarten wir heute von kul
+ turellem Erbe?
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5
+DESCRIPTION:Reihe: Kulturelles Erbe im Wandel: Provenienz\, Restitution und
+  gesellschaftliche Verantwortung\nReferent/in: Thomas Thiemeyer\, Tübinge
+ n\nEintritt frei\, ohne Anmeldung.\nDetails: https://uni-tuebingen.de/news
+ -default/article/kulturgut-und-beziehungspflege-was-erwarten-wir-heute-von
+ -kulturellem-erbe/
+CATEGORIES:Kulturelles Erbe im Wandel
+URL:https://uni-tuebingen.de/news-default/article/kulturgut-und-beziehungsp
+ flege-was-erwarten-wir-heute-von-kulturellem-erbe/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136356@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20270112T181500
+DTEND;TZID=Europe/Berlin:20270112T194500
+SUMMARY:StG: Katechon und Antichrist. Politische Theologie im Handgemenge
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5\, und Aufzeichnung
+DESCRIPTION:Reihe: Rechtsextremismus und Religionen\nReferent/in: Dr. Volke
+ r Weiß\, Hamburg\nEintritt frei\, ohne Anmeldung.\nDetails: https://uni-t
+ uebingen.de/news-default/article/katechon-und-antichrist-politische-theolo
+ gie-im-handgemenge/
+CATEGORIES:Rechtsextremismus und Religionen
+URL:https://uni-tuebingen.de/news-default/article/katechon-und-antichrist-p
+ olitische-theologie-im-handgemenge/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136290@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20270112T181500
+DTEND;TZID=Europe/Berlin:20270112T194500
+SUMMARY:StG: Welche Rolle spielt Wissenschaft in Umweltkonflikten – Teil 
+ der Lösung oder Teil des Problems?
+LOCATION:Hörsaal 21\, Kupferbau\, Hölderlinstr. 5
+DESCRIPTION:Reihe: Wertvolles Wissen?! Zur Vielfalt des Wissens für Nachha
+ ltige Entwicklung\nReferent/in: Jun.-Prof. Dr. Riccarda Flemmer\, Juniorpr
+ ofessorin für Political Struggles in the Global South\, Institut für Pol
+ itikwissenschaft\, Universität Tübingen\nEintritt frei\, ohne Anmeldung.
+ \nDetails: https://uni-tuebingen.de/news-default/article/welche-rolle-spie
+ lt-wissenschaft-in-umweltkonflikten-teil-der-loesung-oder-teil-des-problem
+ s/
+CATEGORIES:Wertvolles Wissen
+URL:https://uni-tuebingen.de/news-default/article/welche-rolle-spielt-wisse
+ nschaft-in-umweltkonflikten-teil-der-loesung-oder-teil-des-problems/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136395@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20270113T181500
+DTEND;TZID=Europe/Berlin:20270113T194500
+SUMMARY:StG: Odesa
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5
+DESCRIPTION:Reihe: Eastern Cityscapes. Von der Ostsee bis zum Mittelmeer\nR
+ eferent/in: Olena Saikovska\, Tübingen\nEintritt frei\, ohne Anmeldung.\n
+ Details: https://uni-tuebingen.de/news-default/article/odesa/
+CATEGORIES:Eastern Cityscapes
+URL:https://uni-tuebingen.de/news-default/article/odesa/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136440@studium-generale-ics
+DTSTAMP:20261013T194904Z
 DTSTART;TZID=Europe/Berlin:20270114T181500
 DTEND;TZID=Europe/Berlin:20270114T194500
 SUMMARY:StG: Von der Forschung in die Gesellschaft: das Exzellenzcluster TE
  RRA
-LOCATION:Kupferbau\, Hörsaal 25\, Hölderlinstraße 5\, 72074 Tübingen
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5
 DESCRIPTION:Reihe: Kann Tübingen Klima? Vom Wissen und Handeln „for Futu
- re“\nVortragende: Markus Maisch (TERRA FutureLabs\, Univ. Tübingen)\nEi
- ntritt frei\, ohne Anmeldung. Beginn 18 Uhr c.t. (18:15).\nAktuelle Infos:
-  https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-CATEGORIES:Kann Tübingen Klima? Vom Wissen und Handeln „for Future“
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
+ re“\nReferent/in: Dr. Markus Maisch\, Leiter des TERRA FutureLabs im Exz
+ ellenzcluster TERRA und Laborleiter Klimatologie und Biosphäre\, Universi
+ tät Tübingen\nEintritt frei\, ohne Anmeldung.\nDetails: https://uni-tueb
+ ingen.de/news-default/article/von-der-forschung-in-die-gesellschaft-das-ex
+ zellenzcluster-terra/
+CATEGORIES:Kann Tübingen Klima
+URL:https://uni-tuebingen.de/news-default/article/von-der-forschung-in-die-
+ gesellschaft-das-exzellenzcluster-terra/
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:sg-tue-klima-20270121@studium-generale-ics
-DTSTAMP:20261013T185536Z
+UID:sg-tue-136260@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20270118T181500
+DTEND;TZID=Europe/Berlin:20270118T194500
+SUMMARY:StG: Reactivating Collections in the 21st century: From Oceania to 
+ Europe\, and back
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5
+DESCRIPTION:Reihe: Kulturelles Erbe im Wandel: Provenienz\, Restitution und
+  gesellschaftliche Verantwortung\nReferent/in: Safua Akeli\, Übersee-Muse
+ um Bremen\nHinweis: Vortrag auf Englisch\nEintritt frei\, ohne Anmeldung.\
+ nDetails: https://uni-tuebingen.de/news-default/article/reactivating-colle
+ ctions-in-the-21st-century-from-oceania-to-europe-and-back/
+CATEGORIES:Kulturelles Erbe im Wandel
+URL:https://uni-tuebingen.de/news-default/article/reactivating-collections-
+ in-the-21st-century-from-oceania-to-europe-and-back/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136359@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20270119T181500
+DTEND;TZID=Europe/Berlin:20270119T194500
+SUMMARY:StG: Extrem rechte Lebenswelten in Baden-Württemberg
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5\, und Aufzeichnung
+DESCRIPTION:Reihe: Rechtsextremismus und Religionen\nReferent/in: PD Dr. Ro
+ lf Frankenberger\, IRex\, Universität Tübingen\nEintritt frei\, ohne Anm
+ eldung.\nDetails: https://uni-tuebingen.de/news-default/article/extrem-rec
+ hte-lebenswelten-in-baden-wuerttemberg/
+CATEGORIES:Rechtsextremismus und Religionen
+URL:https://uni-tuebingen.de/news-default/article/extrem-rechte-lebenswelte
+ n-in-baden-wuerttemberg/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136398@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20270120T181500
+DTEND;TZID=Europe/Berlin:20270120T194500
+SUMMARY:StG: Minsk
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5
+DESCRIPTION:Reihe: Eastern Cityscapes. Von der Ostsee bis zum Mittelmeer\nR
+ eferent/in: Alexa von Winning\, Tübingen\nEintritt frei\, ohne Anmeldung.
+ \nDetails: https://uni-tuebingen.de/news-default/article/minsk/
+CATEGORIES:Eastern Cityscapes
+URL:https://uni-tuebingen.de/news-default/article/minsk/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136443@studium-generale-ics
+DTSTAMP:20261013T194904Z
 DTSTART;TZID=Europe/Berlin:20270121T181500
 DTEND;TZID=Europe/Berlin:20270121T194500
-SUMMARY:StG: Mit Herz und Hirn – Wie wir ticken und was das mit Nachhalti
- gkeit zu tun hat
-LOCATION:Alte Aula\, Münzgasse 30\, 72070 Tübingen
+SUMMARY:StG: Vortrag mit anschließender Fishbowl-Diskussion: Mit Herz und 
+ Hirn – Wie wir ticken und was das mit Nachhaltigkeit zu tun hat
+LOCATION:Alte Aula\, Münzgasse 30
 DESCRIPTION:Reihe: Kann Tübingen Klima? Vom Wissen und Handeln „for Futu
- re“\nVortragende: Maria Reinisch (Vereinigung Deutscher Wissenschaftler)
- \nHinweis: Anschließend Fishbowl-Diskussion\; gemeinsam mit KNE\nEintritt
-  frei\, ohne Anmeldung. Beginn 18 Uhr c.t. (18:15).\nAktuelle Infos: https
- ://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-CATEGORIES:Kann Tübingen Klima? Vom Wissen und Handeln „for Future“
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
+ re“\nReferent/in: Dr. Maria Reinisch\, Geschäftsführerin der Vereinigu
+ ng Deutscher Wissenschaftler (VDW e.V)\nEintritt frei\, ohne Anmeldung.\nD
+ etails: https://uni-tuebingen.de/news-default/article/vortrag-mit-anschlie
+ ssender-fishbowl-diskussion-mit-herz-und-hirn-wie-wir-ticken-und-was-das-m
+ it-nachhaltigkeit-zu-tun-hat/
+CATEGORIES:Kann Tübingen Klima
+URL:https://uni-tuebingen.de/news-default/article/vortrag-mit-anschliessend
+ er-fishbowl-diskussion-mit-herz-und-hirn-wie-wir-ticken-und-was-das-mit-na
+ chhaltigkeit-zu-tun-hat/
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:sg-tue-klima-20270128@studium-generale-ics
-DTSTAMP:20261013T185536Z
+UID:sg-tue-136263@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20270125T181500
+DTEND;TZID=Europe/Berlin:20270125T194500
+SUMMARY:StG: Ob\, wie\, an wen? Zur Vielstimmigkeit der Restitutionsdebatte
+  aus ethnologischer Sicht
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5
+DESCRIPTION:Reihe: Kulturelles Erbe im Wandel: Provenienz\, Restitution und
+  gesellschaftliche Verantwortung\nReferent/in: Gabriele Alex\, Tübingen\n
+ Eintritt frei\, ohne Anmeldung.\nDetails: https://uni-tuebingen.de/news-de
+ fault/article/ob-wie-an-wen-zur-vielstimmigkeit-der-restitutionsdebatte-au
+ s-ethnologischer-sicht/
+CATEGORIES:Kulturelles Erbe im Wandel
+URL:https://uni-tuebingen.de/news-default/article/ob-wie-an-wen-zur-vielsti
+ mmigkeit-der-restitutionsdebatte-aus-ethnologischer-sicht/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136362@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20270126T181500
+DTEND;TZID=Europe/Berlin:20270126T194500
+SUMMARY:StG: Conspirituality and Beyond. Esoterik\, alternative Religion un
+ d Rechtsextremismus online
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5\, und Aufzeichnung
+DESCRIPTION:Reihe: Rechtsextremismus und Religionen\nReferent/in: Dr. Morit
+ z Maurer\, Religionswissenschaft\, Universität Wien\nEintritt frei\, ohne
+  Anmeldung.\nDetails: https://uni-tuebingen.de/news-default/article/conspi
+ rituality-and-beyond-esoterik-alternative-religion-und-rechtsextremismus-o
+ nline/
+CATEGORIES:Rechtsextremismus und Religionen
+URL:https://uni-tuebingen.de/news-default/article/conspirituality-and-beyon
+ d-esoterik-alternative-religion-und-rechtsextremismus-online/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136293@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20270126T181500
+DTEND;TZID=Europe/Berlin:20270126T194500
+SUMMARY:StG: Vom Klimawissen zur Klimakommunikation – Wie sollen Forscher
+ *innen ihr Wissen ethisch angemessen formulieren?
+LOCATION:Hörsaal 21\, Kupferbau\, Hölderlinstr. 5
+DESCRIPTION:Reihe: Wertvolles Wissen?! Zur Vielfalt des Wissens für Nachha
+ ltige Entwicklung\nReferent/in: Jun.-Prof. Dr. Christian Baatz\, Lehrstuhl
+  Klimaethik und Globale Gerechtigkeit\, Philosophisches Seminar\, Christia
+ n-Albrechts-Universität zu Kiel\nEintritt frei\, ohne Anmeldung.\nDetails
+ : https://uni-tuebingen.de/news-default/article/vom-klimawissen-zur-klimak
+ ommunikation-wie-sollen-forscherinnen-ihr-wissen-ethisch-angemessen-formul
+ ieren/
+CATEGORIES:Wertvolles Wissen
+URL:https://uni-tuebingen.de/news-default/article/vom-klimawissen-zur-klima
+ kommunikation-wie-sollen-forscherinnen-ihr-wissen-ethisch-angemessen-formu
+ lieren/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136401@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20270127T181500
+DTEND;TZID=Europe/Berlin:20270127T194500
+SUMMARY:StG: Auschwitz / Oświęcim
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5
+DESCRIPTION:Reihe: Eastern Cityscapes. Von der Ostsee bis zum Mittelmeer\nR
+ eferent/in: Martina Thiele\, Tübingen\nEintritt frei\, ohne Anmeldung.\nD
+ etails: https://uni-tuebingen.de/news-default/article/auschwitz-oswiecim/
+CATEGORIES:Eastern Cityscapes
+URL:https://uni-tuebingen.de/news-default/article/auschwitz-oswiecim/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136446@studium-generale-ics
+DTSTAMP:20261013T194904Z
 DTSTART;TZID=Europe/Berlin:20270128T181500
 DTEND;TZID=Europe/Berlin:20270128T194500
-SUMMARY:StG: Tübingen ‚for future'! Sozialökologische Stadtentwicklung 
- und kooperative Planungskultur?
-LOCATION:Alte Aula\, Münzgasse 30\, 72070 Tübingen
+SUMMARY:StG: Tübingen „for future“! Sozialökologische Stadtentwicklun
+ g und kooperative Planungskultur?
+LOCATION:Alte Aula\, Münzgasse 30
 DESCRIPTION:Reihe: Kann Tübingen Klima? Vom Wissen und Handeln „for Futu
- re“\nVortragende: Cord Soehlke\, Samuel Wagner\, Susanne Dürr\, Leon Fl
- emming\, Gerd Kuhn\, Lucia Landenberger\, Antonia Sachs\; Moderation: Chri
- stiane Bertram & Thilo Schäfer\nHinweis: Kurzvorträge und Fishbowl-Disku
- ssion\nEintritt frei\, ohne Anmeldung. Beginn 18 Uhr c.t. (18:15).\nAktuel
- le Infos: https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
-CATEGORIES:Kann Tübingen Klima? Vom Wissen und Handeln „for Future“
-URL:https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/
+ re“\nReferent/in: Moderation: Dr. Christiane Bertram\, Scientists for Fu
+ ture / HIB\, & Thilo Schäfer\, Teachers for Future / Umweltzentrum Tübin
+ gen\nEintritt frei\, ohne Anmeldung.\nDetails: https://uni-tuebingen.de/ne
+ ws-default/article/tuebingen-for-future-sozialoekologische-stadtentwicklun
+ g-und-kooperative-planungskultur/
+CATEGORIES:Kann Tübingen Klima
+URL:https://uni-tuebingen.de/news-default/article/tuebingen-for-future-sozi
+ aloekologische-stadtentwicklung-und-kooperative-planungskultur/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136365@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20270202T181500
+DTEND;TZID=Europe/Berlin:20270202T194500
+SUMMARY:StG: Politischer Antisemitismus im postfaktischen Zeitalter: Formen
+  und Ursachen in Demokratien des 21. Jahrhunderts
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5\, und Aufzeichnung
+DESCRIPTION:Reihe: Rechtsextremismus und Religionen\nReferent/in: Prof. Dr.
+  Lars Rensmann\, Politikwissenschaft\, Universität Passau\nEintritt frei\
+ , ohne Anmeldung.\nDetails: https://uni-tuebingen.de/news-default/article/
+ politischer-antisemitismus-im-postfaktischen-zeitalter-formen-und-ursachen
+ -in-demokratien-des-21-jahrhunderts/
+CATEGORIES:Rechtsextremismus und Religionen
+URL:https://uni-tuebingen.de/news-default/article/politischer-antisemitismu
+ s-im-postfaktischen-zeitalter-formen-und-ursachen-in-demokratien-des-21-ja
+ hrhunderts/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136296@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20270202T181500
+DTEND;TZID=Europe/Berlin:20270202T194500
+SUMMARY:StG: Ein Wissen\, das man nicht wissen will: Über den Zusammenhang
+  von Rassismus\, Sexismus und 'Klimaleugnung'
+LOCATION:Hörsaal 21\, Kupferbau\, Hölderlinstr. 5
+DESCRIPTION:Reihe: Wertvolles Wissen?! Zur Vielfalt des Wissens für Nachha
+ ltige Entwicklung\nReferent/in: Prof. Dr. Regina Ammicht Quinn\, Internati
+ onales Zentrum für Ethik in den Wissenschaften (IZEW)\, Universität Tüb
+ ingen\nEintritt frei\, ohne Anmeldung.\nDetails: https://uni-tuebingen.de/
+ news-default/article/ein-wissen-das-man-nicht-wissen-will-ueber-den-zusamm
+ enhang-von-rassismus-sexismus-und-klimaleugnung/
+CATEGORIES:Wertvolles Wissen
+URL:https://uni-tuebingen.de/news-default/article/ein-wissen-das-man-nicht-
+ wissen-will-ueber-den-zusammenhang-von-rassismus-sexismus-und-klimaleugnun
+ g/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:sg-tue-136404@studium-generale-ics
+DTSTAMP:20261013T194904Z
+DTSTART;TZID=Europe/Berlin:20270203T181500
+DTEND;TZID=Europe/Berlin:20270203T194500
+SUMMARY:StG: Tscherniwzi / Czernowitz
+LOCATION:Hörsaal 25\, Kupferbau\, Hölderlinstr. 5
+DESCRIPTION:Reihe: Eastern Cityscapes. Von der Ostsee bis zum Mittelmeer\nR
+ eferent/in: Mariia Ivanytska\, Kyjiv / Tübingen\nEintritt frei\, ohne Anm
+ eldung.\nDetails: https://uni-tuebingen.de/news-default/article/tscherniwz
+ i-czernowitz/
+CATEGORIES:Eastern Cityscapes
+URL:https://uni-tuebingen.de/news-default/article/tscherniwzi-czernowitz/
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT

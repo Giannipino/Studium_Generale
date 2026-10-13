@@ -1,27 +1,16 @@
-# Update-Anleitung für den Studium-Generale-Agenten
+# Anleitung für den Claude-Fallback
 
-Ziel: `studium-generale-tuebingen.ics` in diesem Repo stets aktuell halten. Google Kalender abonniert die Raw-URL der Datei.
+Normalerweise aktualisiert `scrape.py` die Termine automatisch. Diese Anleitung gilt nur, wenn das Skript fehlschlägt.
 
-## Ablauf (wöchentlich)
-
-1. **Programm lesen.** Quellen in dieser Reihenfolge. Bevorzugt die PDF-Broschüre per `curl -sLf -o /tmp/sg.pdf <URL>` laden und mit `pdftotext -layout /tmp/sg.pdf -` vollständig lesen; falls die Shell die Seite nicht erreicht, WebFetch nutzen:
-   - Programmbroschüre: `https://uni-tuebingen.de/fileadmin/Uni_Tuebingen/Universitaet/Im_Dialog/Studium_Generale/Studium_Generale_<SEM>_Broschuere_web.pdf`
-     mit `<SEM>` = `WiSe26`, `SoSe27`, `WiSe27` … (aktuelles und nächstes Semester probieren).
-   - Studium-Generale-Seite: https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/ (Hinweise auf Ausfälle, Raum-/Terminänderungen)
-   - Falls nichts gefunden: WebSearch „Studium Generale Universität Tübingen <Semester>“ und Pressemitteilungen der Uni.
-   Für jede Reihe ALLE Einzeltermine vollständig erfragen (Datum, Vortragende, Titel, Raum, Hinweise wie Englisch/anderer Raum/Ausfall).
-
-2. **`events.json` aktualisieren.**
-   - Format: `series[].lectures[] = [Datum, Vortragende, Titel, Hinweis, (optional) abweichender Ort, (optional) Start, (optional) Ende]`.
-   - Standardzeit 18:15–19:45 („18 Uhr c.t.“); abweichende Zeiten als Feld 6/7 eintragen.
-   - Abgesagte Termine nicht löschen, sondern Hinweis „ABGESAGT“ setzen und Titel mit „ABGESAGT: “ beginnen.
-   - Neues Semester: neue Reihen mit neuem eindeutigem `key` ergänzen; vergangene Semester dürfen drin bleiben (max. 2 Semester zurück).
-   - `key` und Datum bilden die UID – bestehende `key`s nie umbenennen, sonst entstehen Dubletten in Google.
-
-3. **Plausibilität prüfen:** Wochentag jedes Termins passt zur Reihe; keine doppelten (key, Datum); Datumsformat YYYY-MM-DD.
-
-4. **Erzeugen:** `python3 generate_ics.py` → schreibt `studium-generale-tuebingen.ics`.
-
-5. **Nicht selbst committen.** Der GitHub-Workflow erzeugt die ICS-Datei neu und committet nur, wenn sich `events.json` geändert hat.
-
-6. **Bericht:** Kurz melden, was sich geändert hat (neue/geänderte/abgesagte Termine) oder „keine Änderungen“. Bei Unsicherheiten (unklare Zuordnung, Quelle nicht lesbar) nichts raten, sondern im Bericht nennen.
+1. **Quelle:** https://uni-tuebingen.de/universitaet/im-dialog/studium-generale/ (per `curl -sLf`, sonst WebFetch).
+   Unter „Themenübersicht“ stehen die Vorlesungsreihen; jeder Termin verlinkt auf eine Veranstaltungsseite
+   (`/news-default/article/...`) mit Datum, Uhrzeit, Veranstaltungsort und Referent/in. Alle Termine öffnen.
+   Falls die Seite unbrauchbar ist: das dort verlinkte Programm-PDF (`pdftotext -layout`), zuletzt WebSearch.
+2. **`events.json` aktualisieren** – Format: `{"source": "...", "events": [ {uid, date (YYYY-MM-DD), start (HH:MM),
+   end (HH:MM; Standard Start + 90 min), title, series, speaker, location, note, cancelled (bool), url} ]}`.
+   - `uid` bestehender Termine NIE ändern (sonst Dubletten in Google). Neue Termine: `sg-tue-<news-id>` aus
+     `data-news-id` der Veranstaltungsseite, sonst `sg-tue-<kurzer-slug>`.
+   - Abgesagte Termine nicht löschen, sondern `cancelled: true` setzen. Vergangene Termine behalten.
+3. **Prüfen:** keine doppelten UIDs, Wochentage plausibel. Dann `python3 generate_ics.py`.
+4. **Nicht selbst committen.** Bericht in `LETZTER_LAUF.md`: was geändert wurde, welche Quellen lesbar waren,
+   warum `scrape.py` vermutlich scheiterte. Nichts raten – Unklares im Bericht nennen.
