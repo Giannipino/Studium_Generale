@@ -2,7 +2,7 @@ name: Studium Generale aktualisieren
 
 on:
   schedule:
-    - cron: "47 4 * * 1"   # montags 05:47 (Winterzeit) / 06:47 (Sommerzeit) deutscher Zeit
+    - cron: "17 4 * * *"   # täglich 05:17 (Winterzeit) / 06:17 (Sommerzeit) deutscher Zeit
   workflow_dispatch:        # manuell starten: Actions -> "Run workflow"
 
 permissions:
@@ -12,22 +12,34 @@ jobs:
   update:
     runs-on: ubuntu-latest
     timeout-minutes: 30
+    env:
+      HAS_CLAUDE_KEY: ${{ secrets.ANTHROPIC_API_KEY != '' }}
     steps:
       - uses: actions/checkout@v4
 
       - name: Werkzeuge installieren
-        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
+        run: pip install --quiet beautifulsoup4
 
-      - name: Programm prüfen (Claude)
+      - name: Termine von der Uni-Webseite lesen
+        id: scrape
+        continue-on-error: true
+        run: python3 scrape.py
+
+      - name: Fallback – Claude liest das Programm
+        if: steps.scrape.outcome == 'failure' && env.HAS_CLAUDE_KEY == 'true'
         uses: anthropics/claude-code-action@v1
         with:
           anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
           prompt: |
-            Lies AGENT.md in diesem Repository und führe die dort beschriebene wöchentliche Aktualisierung aus.
-            Heute ist der Tag, an dem dieser Workflow läuft (siehe `date`).
-            Committe NICHT selbst – das erledigt der nächste Workflow-Schritt.
-            Schreibe Deinen Bericht zusätzlich in die Datei LETZTER_LAUF.md.
+            Das Skript scrape.py ist fehlgeschlagen. Lies AGENT.md und aktualisiere events.json wie dort beschrieben.
+            Committe NICHT selbst. Schreibe Deinen Bericht in LETZTER_LAUF.md.
           claude_args: "--allowedTools Bash,Read,Write,Edit,WebFetch,WebSearch"
+
+      - name: Abbrechen, wenn keine Quelle funktioniert hat
+        if: steps.scrape.outcome == 'failure' && env.HAS_CLAUDE_KEY != 'true'
+        run: |
+          echo "scrape.py ist fehlgeschlagen und kein ANTHROPIC_API_KEY als Fallback hinterlegt."
+          exit 1
 
       - name: ICS erzeugen und Änderungen committen
         run: |
@@ -41,3 +53,8 @@ jobs:
             git commit -m "Studium Generale: automatische Aktualisierung $(date +%F)"
             git push
           fi
+
+      - name: Fehler melden
+        if: steps.scrape.outcome == 'failure'
+        run: |
+          echo "::warning::scrape.py ist fehlgeschlagen – bitte prüfen, ob die Uni-Seite umgebaut wurde."
